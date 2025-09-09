@@ -10,6 +10,7 @@ df = pd.read_csv('df_filtered.csv')
 columns = df.columns.drop(["Unnamed: 0", "Cluster"]).tolist()
 
 app = dash.Dash(__name__)
+server = app.server
 
 app.layout = html.Div([
     html.H1('3D Scatter plot of Customer Data from cluster analysis'),
