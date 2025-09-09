@@ -1,0 +1,1869 @@
+,Sex,Marital status,Age,Education,Income,Occupation,Settlement size,Cluster
+1,Female,Married,22,High School,150773,Skilled Employee/Official,Big city,0
+2,Male,Single,49,High School,89210,Unemployed/Unskilled,Small City,3
+3,Male,Single,45,High School,171565,Skilled Employee/Official,Mid-sized city,1
+4,Male,Single,53,High School,149031,Skilled Employee/Official,Mid-sized city,1
+5,Male,Single,35,High School,144848,Unemployed/Unskilled,Small City,3
+6,Male,Single,53,High School,156495,Skilled Employee/Official,Mid-sized city,1
+7,Male,Single,35,High School,193621,management / self-employed / highly qualified employee / officer,Mid-sized city,1
+8,Male,Married,61,University,151591,Unemployed/Unskilled,Small City,2
+9,Male,Married,28,High School,174646,management / self-employed / highly qualified employee / officer,Small City,0
+10,Female,Married,25,High School,108469,Skilled Employee/Official,Small City,0
+11,Female,Married,24,High School,127596,Skilled Employee/Official,Small City,0
+12,Female,Married,22,High School,108687,Skilled Employee/Official,Big city,0
+13,Male,Single,60,University,89374,Unemployed/Unskilled,Small City,2
+14,Female,Married,28,High School,102899,Skilled Employee/Official,Mid-sized city,0
+15,Female,Married,32,High School,88428,Unemployed/Unskilled,Small City,3
+16,Male,Single,53,High School,125550,Skilled Employee/Official,Small City,1
+17,Male,Single,25,other/unknown,157434,Skilled Employee/Official,Big city,1
+19,Male,Single,31,other/unknown,144657,Skilled Employee/Official,Mid-sized city,1
+20,Male,Single,48,High School,118777,Skilled Employee/Official,Mid-sized city,1
+21,Male,Single,44,High School,147511,Skilled Employee/Official,Mid-sized city,1
+22,Male,Single,48,High School,89804,Unemployed/Unskilled,Small City,3
+23,Male,Single,44,High School,134918,Skilled Employee/Official,Big city,1
+24,Male,Married,26,High School,103667,Skilled Employee/Official,Big city,0
+25,Male,Single,36,High School,71909,Unemployed/Unskilled,Small City,3
+26,Male,Married,39,High School,68264,Unemployed/Unskilled,Small City,3
+27,Female,Married,42,University,163025,Skilled Employee/Official,Mid-sized city,2
+28,Male,Single,34,High School,119307,Skilled Employee/Official,Mid-sized city,1
+29,Male,Single,63,University,175882,Skilled Employee/Official,Small City,2
+30,Male,Married,36,High School,159646,Skilled Employee/Official,Mid-sized city,0
+31,Male,Single,27,other/unknown,120131,Skilled Employee/Official,Mid-sized city,1
+32,Male,Single,30,other/unknown,162745,Skilled Employee/Official,Big city,1
+33,Male,Single,57,University,87605,Unemployed/Unskilled,Small City,2
+34,Female,Married,33,High School,155569,management / self-employed / highly qualified employee / officer,Mid-sized city,0
+35,Male,Single,25,other/unknown,104505,Unemployed/Unskilled,Small City,3
+36,Male,Single,31,other/unknown,143385,Skilled Employee/Official,Big city,1
+37,Male,Single,37,High School,127676,Skilled Employee/Official,Mid-sized city,1
+38,Male,Single,37,High School,119276,Skilled Employee/Official,Mid-sized city,1
+39,Male,Single,24,other/unknown,92542,Skilled Employee/Official,Mid-sized city,1
+40,Male,Single,30,other/unknown,163329,management / self-employed / highly qualified employee / officer,Mid-sized city,1
+41,Male,Married,26,High School,130921,Skilled Employee/Official,Small City,0
+42,Male,Single,44,High School,133658,Unemployed/Unskilled,Small City,3
+43,Male,Married,24,High School,155104,Skilled Employee/Official,Mid-sized city,0
+44,Female,Married,58,University,142335,Unemployed/Unskilled,Mid-sized city,2
+45,Female,Married,35,High School,138387,management / self-employed / highly qualified employee / officer,Mid-sized city,0
+46,Male,Single,39,High School,140182,Skilled Employee/Official,Small City,1
+47,Female,Married,23,High School,65421,Unemployed/Unskilled,Small City,3
+48,Male,Single,39,High School,130500,Unemployed/Unskilled,Small City,3
+49,Female,Married,28,High School,122831,Skilled Employee/Official,Small City,0
+50,Male,Single,29,other/unknown,84531,Unemployed/Unskilled,Small City,3
+51,Male,Single,30,other/unknown,180196,management / self-employed / highly qualified employee / officer,Big city,1
+52,Male,Single,25,other/unknown,92058,Skilled Employee/Official,Big city,1
+53,Male,Single,31,other/unknown,117158,Skilled Employee/Official,Small City,1
+54,Male,Single,57,University,135830,Skilled Employee/Official,Mid-sized city,2
+55,Male,Single,26,other/unknown,58258,Unemployed/Unskilled,Small City,3
+57,Female,Married,31,High School,183657,Skilled Employee/Official,Mid-sized city,0
+58,Female,Married,23,High School,152267,management / self-employed / highly qualified employee / officer,Mid-sized city,0
+59,Female,Married,23,High School,115240,Unemployed/Unskilled,Small City,3
+60,Male,Married,27,High School,106955,Skilled Employee/Official,Big city,0
+61,Male,Single,50,High School,123641,Skilled Employee/Official,Mid-sized city,1
+62,Male,Single,61,University,166410,management / self-employed / highly qualified employee / officer,Mid-sized city,2
+64,Female,Married,26,High School,118372,Skilled Employee/Official,Mid-sized city,0
+65,Male,Single,48,High School,148115,Skilled Employee/Official,Mid-sized city,1
+66,Female,Married,29,High School,111069,Skilled Employee/Official,Small City,0
+67,Male,Married,22,High School,139780,Skilled Employee/Official,Small City,0
+68,Male,Single,37,High School,106978,Skilled Employee/Official,Big city,1
+69,Female,Married,25,High School,110019,Skilled Employee/Official,Big city,0
+70,Female,Married,30,High School,169102,Skilled Employee/Official,Mid-sized city,0
+71,Male,Single,46,High School,73703,Unemployed/Unskilled,Small City,3
+72,Male,Single,51,High School,141858,management / self-employed / highly qualified employee / officer,Big city,1
+73,Female,Married,41,University,135959,Unemployed/Unskilled,Small City,2
+74,Male,Single,40,High School,140888,management / self-employed / highly qualified employee / officer,Big city,1
+76,Male,Single,34,High School,125187,Skilled Employee/Official,Mid-sized city,1
+77,Male,Single,51,High School,155486,Skilled Employee/Official,Big city,1
+78,Male,Single,39,High School,151697,Unemployed/Unskilled,Small City,1
+79,Male,Married,22,High School,126400,Skilled Employee/Official,Mid-sized city,0
+80,Female,Married,44,University,159246,Skilled Employee/Official,Big city,2
+81,Male,Single,47,High School,136138,Skilled Employee/Official,Mid-sized city,1
+82,Female,Married,24,High School,84792,Unemployed/Unskilled,Small City,3
+83,Female,Married,58,University,100210,Unemployed/Unskilled,Small City,2
+84,Male,Single,52,High School,93706,Unemployed/Unskilled,Small City,3
+85,Female,Married,29,High School,133783,management / self-employed / highly qualified employee / officer,Mid-sized city,0
+86,Female,Married,27,High School,110064,Skilled Employee/Official,Big city,0
+88,Male,Single,30,other/unknown,149022,management / self-employed / highly qualified employee / officer,Big city,1
+89,Male,Single,28,other/unknown,92973,Skilled Employee/Official,Big city,1
+90,Male,Single,56,High School,110605,Skilled Employee/Official,Mid-sized city,1
+91,Male,Single,54,High School,116604,Skilled Employee/Official,Mid-sized city,1
+92,Female,Married,33,High School,71070,Unemployed/Unskilled,Small City,3
+93,Male,Single,20,other/unknown,128678,Skilled Employee/Official,Mid-sized city,1
+94,Male,Single,54,High School,165230,Skilled Employee/Official,Big city,1
+96,Female,Married,61,University,135070,Skilled Employee/Official,Mid-sized city,2
+97,Male,Single,34,High School,134794,Skilled Employee/Official,Big city,1
+98,Male,Single,36,High School,120153,Skilled Employee/Official,Mid-sized city,1
+99,Male,Single,36,High School,195465,management / self-employed / highly qualified employee / officer,Big city,1
+100,Male,Married,41,High School,93372,Unemployed/Unskilled,Small City,3
+101,Male,Single,24,other/unknown,110446,Skilled Employee/Official,Small City,1
+102,Female,Married,24,High School,95186,Skilled Employee/Official,Mid-sized city,0
+103,Male,Single,35,High School,115343,Skilled Employee/Official,Mid-sized city,1
+104,Male,Married,26,High School,107276,Skilled Employee/Official,Mid-sized city,0
+106,Male,Single,39,High School,183108,management / self-employed / highly qualified employee / officer,Big city,1
+107,Male,Single,32,other/unknown,152876,Skilled Employee/Official,Big city,1
+108,Female,Married,30,High School,165147,Skilled Employee/Official,Small City,0
+109,Male,Married,35,High School,140520,Skilled Employee/Official,Small City,0
+110,Male,Married,31,High School,124203,Skilled Employee/Official,Mid-sized city,0
+111,Female,Married,23,High School,107205,Skilled Employee/Official,Mid-sized city,0
+112,Male,Single,28,other/unknown,121432,Unemployed/Unskilled,Big city,1
+113,Female,Married,25,High School,162445,Skilled Employee/Official,Small City,0
+114,Male,Married,35,High School,134112,Skilled Employee/Official,Mid-sized city,0
+115,Male,Single,47,High School,131842,Skilled Employee/Official,Mid-sized city,1
+116,Female,Married,30,High School,189896,management / self-employed / highly qualified employee / officer,Small City,0
+117,Female,Married,27,High School,109099,Skilled Employee/Official,Big city,0
+118,Female,Married,23,High School,153539,Skilled Employee/Official,Mid-sized city,0
+119,Male,Married,36,High School,180495,management / self-employed / highly qualified employee / officer,Mid-sized city,1
+120,Female,Married,25,High School,104653,Skilled Employee/Official,Big city,0
+121,Female,Married,41,University,166933,management / self-employed / highly qualified employee / officer,Big city,2
+122,Male,Single,24,other/unknown,66118,Unemployed/Unskilled,Small City,3
+123,Male,Single,63,University,135754,Skilled Employee/Official,Small City,2
+124,Female,Married,27,High School,116103,Skilled Employee/Official,Big city,0
+125,Male,Single,30,other/unknown,104293,Skilled Employee/Official,Mid-sized city,1
+126,Male,Married,40,High School,71702,Unemployed/Unskilled,Small City,3
+127,Male,Single,30,other/unknown,99066,Skilled Employee/Official,Big city,1
+128,Male,Single,34,High School,143979,management / self-employed / highly qualified employee / officer,Big city,1
+129,Female,Married,29,High School,123818,Skilled Employee/Official,Small City,0
+130,Female,Married,24,High School,176714,Skilled Employee/Official,Big city,0
+131,Male,Single,29,other/unknown,149249,Skilled Employee/Official,Big city,1
+132,Male,Single,27,other/unknown,77535,Unemployed/Unskilled,Small City,3
+133,Male,Single,47,High School,116540,Skilled Employee/Official,Mid-sized city,1
+134,Female,Married,21,High School,194728,Skilled Employee/Official,Small City,0
+135,Female,Married,38,High School,109311,Skilled Employee/Official,Big city,0
+138,Male,Single,35,High School,123109,Skilled Employee/Official,Mid-sized city,1
+139,Female,Married,44,University,108251,Unemployed/Unskilled,Small City,2
+140,Male,Married,27,High School,89908,Unemployed/Unskilled,Small City,3
+141,Female,Married,30,High School,176057,management / self-employed / highly qualified employee / officer,Mid-sized city,0
+142,Male,Single,27,other/unknown,144332,management / self-employed / highly qualified employee / officer,Big city,1
+143,Male,Single,22,other/unknown,101185,Skilled Employee/Official,Mid-sized city,1
+144,Female,Married,23,High School,107406,Skilled Employee/Official,Big city,0
+145,Male,Single,30,other/unknown,140665,Skilled Employee/Official,Mid-sized city,1
+146,Female,Married,39,University,106461,Skilled Employee/Official,Small City,2
+147,Female,Married,51,University,127825,Skilled Employee/Official,Small City,2
+148,Male,Single,28,other/unknown,133898,Skilled Employee/Official,Mid-sized city,1
+149,Male,Single,46,High School,152383,Skilled Employee/Official,Big city,1
+150,Male,Single,42,High School,119926,Skilled Employee/Official,Small City,1
+151,Male,Single,38,High School,108784,Skilled Employee/Official,Big city,1
+152,Male,Single,24,other/unknown,153286,Skilled Employee/Official,Mid-sized city,1
+155,Female,Married,20,High School,95355,Skilled Employee/Official,Mid-sized city,0
+156,Male,Single,48,High School,124156,Skilled Employee/Official,Mid-sized city,1
+157,Male,Married,45,University,72215,Unemployed/Unskilled,Small City,2
+158,Male,Single,38,High School,146529,Skilled Employee/Official,Big city,1
+159,Male,Single,34,High School,75343,Unemployed/Unskilled,Small City,3
+160,Male,Single,36,High School,129789,Skilled Employee/Official,Mid-sized city,1
+161,Female,Married,30,High School,101153,Skilled Employee/Official,Mid-sized city,0
+162,Male,Single,36,High School,127833,Skilled Employee/Official,Big city,1
+164,Male,Single,36,High School,124445,Skilled Employee/Official,Big city,1
+165,Male,Single,32,other/unknown,141116,Skilled Employee/Official,Mid-sized city,1
+166,Female,Married,33,High School,104276,Skilled Employee/Official,Big city,0
+167,Female,Married,20,High School,147687,Skilled Employee/Official,Big city,0
+168,Female,Married,25,High School,125168,Skilled Employee/Official,Mid-sized city,0
+169,Male,Married,31,High School,115369,Skilled Employee/Official,Big city,0
+170,Male,Single,33,High School,95445,Skilled Employee/Official,Small City,1
+171,Female,Married,26,High School,95159,Skilled Employee/Official,Mid-sized city,0
+172,Female,Married,34,High School,153031,management / self-employed / highly qualified employee / officer,Big city,0
+173,Male,Single,33,High School,108899,Skilled Employee/Official,Small City,1
+174,Male,Single,26,other/unknown,113515,Skilled Employee/Official,Mid-sized city,1
+176,Male,Married,42,University,121307,Skilled Employee/Official,Small City,2
+177,Male,Single,52,High School,131727,Skilled Employee/Official,Big city,1
+178,Male,Single,31,other/unknown,133574,management / self-employed / highly qualified employee / officer,Mid-sized city,1
+180,Male,Married,28,High School,177291,Skilled Employee/Official,Big city,0
+181,Male,Married,30,High School,168763,management / self-employed / highly qualified employee / officer,Mid-sized city,0
+182,Male,Single,40,High School,77720,Unemployed/Unskilled,Small City,3
+183,Male,Single,50,High School,176645,Skilled Employee/Official,Big city,1
+184,Male,Single,36,High School,106205,Skilled Employee/Official,Mid-sized city,1
+185,Male,Single,31,other/unknown,97785,Skilled Employee/Official,Mid-sized city,1
+188,Male,Married,20,High School,98988,Skilled Employee/Official,Small City,0
+189,Female,Married,33,High School,133561,Skilled Employee/Official,Mid-sized city,0
+191,Male,Single,34,High School,116525,Unemployed/Unskilled,Small City,3
+192,Male,Single,36,High School,135302,Skilled Employee/Official,Big city,1
+193,Male,Married,29,High School,106434,Skilled Employee/Official,Mid-sized city,0
+194,Male,Single,21,other/unknown,128350,Skilled Employee/Official,Big city,1
+195,Female,Married,34,High School,147626,management / self-employed / highly qualified employee / officer,Big city,0
+196,Female,Married,28,High School,102697,Skilled Employee/Official,Small City,0
+197,Female,Married,27,High School,120262,Skilled Employee/Official,Small City,0
+198,Male,Single,36,High School,124214,Skilled Employee/Official,Big city,1
+199,Male,Married,40,High School,175223,management / self-employed / highly qualified employee / officer,Mid-sized city,1
+200,Male,Single,52,High School,137467,Skilled Employee/Official,Small City,1
+201,Male,Married,27,High School,65815,Unemployed/Unskilled,Small City,3
+202,Male,Single,26,other/unknown,129864,Skilled Employee/Official,Mid-sized city,1
+203,Male,Married,21,High School,88475,Skilled Employee/Official,Mid-sized city,0
+204,Male,Single,38,High School,74666,Unemployed/Unskilled,Small City,3
+206,Male,Single,43,High School,112878,Skilled Employee/Official,Small City,1
+207,Male,Single,26,other/unknown,103411,Skilled Employee/Official,Big city,1
+208,Male,Married,21,High School,112868,Unemployed/Unskilled,Small City,3
+209,Male,Single,55,High School,157940,Skilled Employee/Official,Big city,1
+210,Male,Single,33,High School,115835,Skilled Employee/Official,Big city,1
+211,Female,Married,45,University,109807,Unemployed/Unskilled,Small City,2
+212,Male,Single,50,High School,150699,Skilled Employee/Official,Mid-sized city,1
+214,Male,Single,51,High School,132767,Skilled Employee/Official,Small City,1
+215,Female,Married,39,University,86152,Unemployed/Unskilled,Small City,3
+216,Male,Single,31,other/unknown,114528,Skilled Employee/Official,Big city,1
+217,Male,Single,23,other/unknown,133912,Skilled Employee/Official,Mid-sized city,1
+218,Male,Married,24,High School,81210,Unemployed/Unskilled,Small City,3
+219,Female,Married,64,Graduate School,131242,Skilled Employee/Official,Small City,2
+220,Male,Married,26,High School,68804,Unemployed/Unskilled,Small City,3
+221,Female,Married,23,High School,96961,Skilled Employee/Official,Mid-sized city,0
+222,Male,Single,30,other/unknown,90719,Skilled Employee/Official,Big city,1
+223,Male,Single,32,other/unknown,114116,Skilled Employee/Official,Mid-sized city,1
+224,Male,Single,30,other/unknown,128639,Skilled Employee/Official,Mid-sized city,1
+225,Male,Single,27,other/unknown,106623,Skilled Employee/Official,Mid-sized city,1
+228,Male,Single,22,other/unknown,91739,Skilled Employee/Official,Mid-sized city,1
+229,Male,Single,22,other/unknown,107780,Skilled Employee/Official,Big city,1
+230,Male,Single,26,other/unknown,139157,Skilled Employee/Official,Big city,1
+231,Male,Single,51,High School,121751,Unemployed/Unskilled,Small City,3
+232,Male,Single,35,High School,121974,Skilled Employee/Official,Small City,1
+233,Male,Married,25,High School,70320,Unemployed/Unskilled,Small City,3
+234,Male,Single,42,High School,78327,Unemployed/Unskilled,Small City,3
+235,Male,Single,30,other/unknown,131433,management / self-employed / highly qualified employee / officer,Small City,1
+236,Male,Single,23,other/unknown,167076,Unemployed/Unskilled,Big city,1
+237,Male,Married,61,University,130788,Unemployed/Unskilled,Small City,2
+238,Female,Married,35,High School,107408,Skilled Employee/Official,Mid-sized city,0
+239,Male,Single,39,High School,115323,Skilled Employee/Official,Mid-sized city,1
+240,Female,Married,29,High School,99012,Skilled Employee/Official,Small City,0
+241,Male,Single,51,High School,115996,Skilled Employee/Official,Mid-sized city,1
+242,Male,Single,24,other/unknown,123353,Skilled Employee/Official,Mid-sized city,1
+243,Female,Married,27,High School,100008,Skilled Employee/Official,Small City,0
+244,Female,Married,35,High School,125105,Unemployed/Unskilled,Small City,3
+245,Male,Single,25,other/unknown,92020,Skilled Employee/Official,Big city,1
+246,Male,Single,52,High School,108365,Skilled Employee/Official,Big city,1
+247,Male,Single,35,High School,112979,Skilled Employee/Official,Small City,1
+248,Male,Single,26,other/unknown,117221,Skilled Employee/Official,Mid-sized city,1
+249,Female,Married,22,High School,88800,Skilled Employee/Official,Big city,0
+250,Female,Married,39,University,115099,Unemployed/Unskilled,Small City,2
+251,Female,Married,46,University,113399,Unemployed/Unskilled,Small City,2
+252,Female,Married,24,High School,115879,Skilled Employee/Official,Mid-sized city,0
+253,Male,Single,35,High School,141270,Skilled Employee/Official,Big city,1
+254,Male,Single,24,other/unknown,107633,Skilled Employee/Official,Mid-sized city,1
+255,Male,Single,27,other/unknown,131751,Unemployed/Unskilled,Small City,3
+256,Male,Single,35,High School,83687,Unemployed/Unskilled,Small City,3
+257,Male,Married,29,High School,106828,Skilled Employee/Official,Big city,0
+258,Female,Married,23,High School,135537,Skilled Employee/Official,Mid-sized city,0
+259,Female,Married,57,University,107142,Unemployed/Unskilled,Small City,2
+260,Male,Single,27,other/unknown,97446,Skilled Employee/Official,Mid-sized city,1
+261,Female,Married,55,University,126357,Skilled Employee/Official,Big city,2
+262,Male,Single,36,High School,169617,management / self-employed / highly qualified employee / officer,Mid-sized city,1
+263,Female,Married,57,University,108945,Unemployed/Unskilled,Small City,2
+264,Male,Single,32,other/unknown,67345,Unemployed/Unskilled,Small City,3
+265,Male,Single,37,High School,106215,Skilled Employee/Official,Small City,1
+266,Male,Single,36,High School,149237,Skilled Employee/Official,Small City,1
+267,Female,Married,38,High School,112124,Skilled Employee/Official,Small City,0
+269,Male,Single,25,other/unknown,89534,Skilled Employee/Official,Mid-sized city,1
+270,Male,Single,32,other/unknown,111082,Skilled Employee/Official,Big city,1
+271,Female,Married,37,High School,137069,Skilled Employee/Official,Mid-sized city,0
+273,Male,Single,28,other/unknown,120712,Skilled Employee/Official,Mid-sized city,1
+274,Male,Married,34,High School,175367,Unemployed/Unskilled,Small City,0
+275,Male,Single,32,other/unknown,111418,Skilled Employee/Official,Mid-sized city,1
+276,Female,Married,26,High School,110913,Skilled Employee/Official,Small City,0
+277,Male,Married,49,University,84267,Unemployed/Unskilled,Small City,2
+278,Female,Married,32,High School,136886,Skilled Employee/Official,Big city,0
+279,Male,Single,29,other/unknown,144884,management / self-employed / highly qualified employee / officer,Big city,1
+280,Male,Single,23,other/unknown,151180,Skilled Employee/Official,Mid-sized city,1
+281,Male,Single,50,High School,114997,Skilled Employee/Official,Mid-sized city,1
+282,Male,Single,49,High School,100961,Unemployed/Unskilled,Small City,3
+283,Male,Single,63,University,124849,Skilled Employee/Official,Big city,2
+284,Male,Married,37,High School,152308,Skilled Employee/Official,Big city,1
+285,Female,Married,35,High School,167945,Unemployed/Unskilled,Mid-sized city,0
+286,Male,Single,26,other/unknown,126706,Skilled Employee/Official,Big city,1
+288,Female,Married,49,University,125665,Skilled Employee/Official,Mid-sized city,2
+289,Male,Married,48,University,111184,Skilled Employee/Official,Mid-sized city,2
+290,Male,Married,26,High School,94134,Skilled Employee/Official,Small City,0
+292,Female,Married,44,University,193816,management / self-employed / highly qualified employee / officer,Mid-sized city,2
+293,Male,Single,56,High School,168714,Skilled Employee/Official,Mid-sized city,1
+295,Female,Married,26,High School,192451,Skilled Employee/Official,Big city,0
+296,Female,Married,20,High School,127928,Skilled Employee/Official,Big city,0
+297,Male,Single,45,High School,78253,Unemployed/Unskilled,Small City,3
+298,Male,Single,43,High School,118446,Skilled Employee/Official,Mid-sized city,1
+299,Male,Single,32,other/unknown,161379,Skilled Employee/Official,Big city,1
+300,Female,Married,54,University,56622,Unemployed/Unskilled,Small City,2
+301,Female,Married,42,University,146117,Skilled Employee/Official,Mid-sized city,2
+302,Male,Single,37,High School,90418,Unemployed/Unskilled,Small City,3
+303,Male,Single,49,High School,109053,Skilled Employee/Official,Small City,1
+305,Male,Married,33,High School,144701,Skilled Employee/Official,Mid-sized city,0
+306,Female,Married,24,High School,102425,Unemployed/Unskilled,Small City,3
+307,Male,Married,33,High School,79867,Unemployed/Unskilled,Small City,3
+308,Female,Married,24,High School,107114,Skilled Employee/Official,Big city,0
+309,Male,Married,22,High School,62263,Unemployed/Unskilled,Small City,3
+310,Male,Single,40,High School,92567,Unemployed/Unskilled,Small City,3
+311,Male,Single,25,other/unknown,146349,Skilled Employee/Official,Small City,1
+312,Female,Married,26,High School,141825,Skilled Employee/Official,Mid-sized city,0
+313,Male,Married,25,High School,68582,Unemployed/Unskilled,Small City,3
+314,Male,Single,29,other/unknown,85476,Unemployed/Unskilled,Small City,3
+315,Male,Single,31,other/unknown,111091,Skilled Employee/Official,Big city,1
+316,Male,Single,38,High School,67110,Unemployed/Unskilled,Small City,3
+317,Female,Married,48,University,126154,Unemployed/Unskilled,Small City,2
+318,Male,Single,32,other/unknown,92257,Skilled Employee/Official,Big city,1
+319,Female,Married,27,High School,93605,Unemployed/Unskilled,Small City,3
+320,Male,Married,28,High School,165190,management / self-employed / highly qualified employee / officer,Small City,0
+321,Male,Married,32,High School,107195,Skilled Employee/Official,Small City,0
+322,Male,Single,34,High School,145059,management / self-employed / highly qualified employee / officer,Small City,1
+323,Male,Single,28,other/unknown,148363,Skilled Employee/Official,Small City,1
+324,Female,Married,36,High School,105681,Skilled Employee/Official,Big city,0
+325,Male,Single,39,High School,93732,Unemployed/Unskilled,Small City,3
+326,Male,Single,49,High School,154778,Skilled Employee/Official,Big city,1
+327,Female,Married,34,High School,149356,Skilled Employee/Official,Big city,0
+328,Male,Single,31,other/unknown,145670,Skilled Employee/Official,Mid-sized city,1
+329,Male,Single,28,other/unknown,101589,Skilled Employee/Official,Big city,1
+331,Female,Married,30,High School,122420,Skilled Employee/Official,Small City,0
+333,Female,Married,24,High School,181003,Unemployed/Unskilled,Small City,0
+334,Male,Single,23,other/unknown,117804,Skilled Employee/Official,Mid-sized city,1
+335,Male,Married,44,University,160650,management / self-employed / highly qualified employee / officer,Mid-sized city,2
+336,Female,Married,23,High School,84611,Unemployed/Unskilled,Small City,3
+337,Female,Married,24,High School,98479,Skilled Employee/Official,Big city,0
+338,Male,Single,28,other/unknown,122359,Skilled Employee/Official,Big city,1
+339,Male,Married,31,High School,81394,Unemployed/Unskilled,Small City,3
+340,Female,Married,24,High School,150372,Skilled Employee/Official,Mid-sized city,0
+341,Female,Married,26,High School,92385,Unemployed/Unskilled,Small City,3
+342,Male,Married,25,High School,149851,Skilled Employee/Official,Big city,0
+343,Male,Single,33,High School,167939,management / self-employed / highly qualified employee / officer,Mid-sized city,1
+344,Male,Single,37,High School,115426,Unemployed/Unskilled,Small City,3
+345,Female,Married,43,University,85402,Unemployed/Unskilled,Small City,2
+346,Male,Single,23,other/unknown,95815,Skilled Employee/Official,Big city,1
+347,Female,Married,23,High School,97518,Unemployed/Unskilled,Small City,3
+348,Male,Single,34,High School,87355,Unemployed/Unskilled,Small City,3
+349,Male,Single,32,other/unknown,145933,Skilled Employee/Official,Mid-sized city,1
+350,Female,Married,23,High School,97307,Skilled Employee/Official,Small City,0
+351,Female,Married,29,High School,108434,Skilled Employee/Official,Big city,0
+352,Male,Single,38,High School,151312,management / self-employed / highly qualified employee / officer,Mid-sized city,1
+353,Male,Single,28,other/unknown,141847,Skilled Employee/Official,Mid-sized city,1
+354,Male,Single,46,High School,130675,Skilled Employee/Official,Big city,1
+355,Male,Single,23,other/unknown,69309,Unemployed/Unskilled,Small City,3
+356,Male,Single,49,High School,121466,Skilled Employee/Official,Big city,1
+357,Male,Single,26,other/unknown,153586,management / self-employed / highly qualified employee / officer,Big city,1
+358,Male,Married,28,High School,92849,Skilled Employee/Official,Small City,0
+359,Female,Married,23,High School,108539,Skilled Employee/Official,Big city,0
+360,Male,Single,61,University,129556,Skilled Employee/Official,Big city,2
+361,Male,Single,37,High School,170146,management / self-employed / highly qualified employee / officer,Small City,1
+362,Female,Married,36,High School,135383,Skilled Employee/Official,Mid-sized city,0
+363,Male,Married,21,High School,96769,Skilled Employee/Official,Big city,0
+364,Male,Single,25,other/unknown,43684,Unemployed/Unskilled,Small City,3
+365,Male,Single,36,High School,103521,Skilled Employee/Official,Small City,1
+366,Male,Single,27,other/unknown,118499,Skilled Employee/Official,Mid-sized city,1
+367,Female,Married,22,High School,119684,Skilled Employee/Official,Big city,0
+368,Male,Single,42,High School,126586,Skilled Employee/Official,Mid-sized city,1
+369,Female,Married,40,University,136812,Skilled Employee/Official,Big city,2
+370,Male,Single,36,High School,118277,Skilled Employee/Official,Mid-sized city,1
+371,Male,Single,33,High School,144597,Skilled Employee/Official,Mid-sized city,1
+372,Female,Married,23,High School,106043,Skilled Employee/Official,Small City,0
+375,Female,Married,37,High School,170386,Skilled Employee/Official,Mid-sized city,0
+376,Male,Married,34,High School,112458,Skilled Employee/Official,Small City,0
+377,Male,Single,36,High School,96840,Skilled Employee/Official,Mid-sized city,1
+379,Female,Married,52,University,95551,Unemployed/Unskilled,Small City,2
+380,Male,Single,39,High School,112347,Skilled Employee/Official,Big city,1
+382,Female,Married,25,High School,99354,Skilled Employee/Official,Small City,0
+383,Male,Single,26,other/unknown,111509,Skilled Employee/Official,Big city,1
+384,Male,Single,26,other/unknown,105252,Unemployed/Unskilled,Small City,3
+385,Female,Married,25,High School,108522,Skilled Employee/Official,Small City,0
+386,Female,Married,21,High School,94655,Skilled Employee/Official,Mid-sized city,0
+388,Male,Single,27,other/unknown,139868,Skilled Employee/Official,Big city,1
+389,Female,Married,27,High School,102543,Skilled Employee/Official,Mid-sized city,0
+390,Male,Married,30,High School,134467,management / self-employed / highly qualified employee / officer,Big city,0
+391,Female,Married,19,High School,111187,Unemployed/Unskilled,Small City,3
+392,Male,Single,39,High School,152302,management / self-employed / highly qualified employee / officer,Mid-sized city,1
+393,Female,Married,31,High School,110610,Skilled Employee/Official,Big city,0
+394,Male,Single,31,other/unknown,137827,management / self-employed / highly qualified employee / officer,Big city,1
+396,Female,Married,55,University,165717,management / self-employed / highly qualified employee / officer,Big city,2
+397,Male,Married,46,University,122299,Skilled Employee/Official,Small City,2
+398,Male,Married,46,University,120499,Skilled Employee/Official,Small City,2
+399,Female,Married,43,University,126449,Unemployed/Unskilled,Small City,2
+400,Male,Married,39,High School,108315,Skilled Employee/Official,Big city,0
+401,Male,Married,28,High School,112515,Skilled Employee/Official,Mid-sized city,0
+402,Male,Single,27,other/unknown,164559,Skilled Employee/Official,Mid-sized city,1
+403,Male,Single,27,other/unknown,59238,Unemployed/Unskilled,Small City,3
+404,Male,Single,43,High School,131133,Skilled Employee/Official,Small City,1
+405,Male,Married,22,High School,109188,Skilled Employee/Official,Small City,0
+406,Male,Single,43,High School,115393,Skilled Employee/Official,Mid-sized city,1
+407,Male,Married,27,High School,94711,Skilled Employee/Official,Big city,0
+408,Male,Married,26,High School,171860,management / self-employed / highly qualified employee / officer,Small City,0
+409,Male,Married,28,High School,139414,Skilled Employee/Official,Big city,0
+410,Female,Married,20,High School,110931,Skilled Employee/Official,Mid-sized city,0
+411,Male,Single,35,High School,187549,management / self-employed / highly qualified employee / officer,Big city,1
+412,Male,Single,42,High School,145508,management / self-employed / highly qualified employee / officer,Small City,1
+413,Male,Single,40,High School,104240,Unemployed/Unskilled,Small City,3
+414,Female,Married,35,High School,108272,Skilled Employee/Official,Mid-sized city,0
+415,Male,Single,35,High School,144004,Skilled Employee/Official,Big city,1
+416,Male,Single,33,High School,81083,Unemployed/Unskilled,Small City,3
+417,Female,Married,23,High School,166763,Skilled Employee/Official,Mid-sized city,0
+418,Female,Married,31,High School,175530,management / self-employed / highly qualified employee / officer,Mid-sized city,0
+419,Female,Married,33,High School,112422,Skilled Employee/Official,Mid-sized city,0
+420,Female,Married,20,High School,154134,Skilled Employee/Official,Big city,0
+421,Male,Single,30,other/unknown,112401,Skilled Employee/Official,Mid-sized city,1
+422,Male,Single,47,High School,85690,Unemployed/Unskilled,Small City,3
+423,Male,Single,34,High School,145896,management / self-employed / highly qualified employee / officer,Big city,1
+424,Female,Married,25,High School,122552,Skilled Employee/Official,Big city,0
+425,Male,Married,21,High School,115494,Skilled Employee/Official,Big city,0
+426,Male,Single,29,other/unknown,109467,Skilled Employee/Official,Small City,1
+427,Male,Single,46,High School,148226,Skilled Employee/Official,Big city,1
+428,Male,Single,20,other/unknown,88559,Skilled Employee/Official,Mid-sized city,1
+429,Female,Married,55,University,62393,Unemployed/Unskilled,Small City,2
+432,Male,Single,36,High School,136689,management / self-employed / highly qualified employee / officer,Big city,1
+433,Male,Married,33,High School,109145,Skilled Employee/Official,Small City,0
+434,Male,Single,25,other/unknown,100449,Skilled Employee/Official,Big city,1
+435,Male,Married,25,High School,106253,Skilled Employee/Official,Small City,0
+436,Male,Married,23,High School,84747,Unemployed/Unskilled,Small City,3
+437,Female,Married,37,High School,149465,Skilled Employee/Official,Mid-sized city,0
+439,Female,Married,26,High School,51681,Unemployed/Unskilled,Small City,3
+440,Male,Single,39,High School,139198,management / self-employed / highly qualified employee / officer,Mid-sized city,1
+441,Female,Married,30,High School,106577,Skilled Employee/Official,Mid-sized city,0
+442,Male,Single,29,other/unknown,117372,Skilled Employee/Official,Big city,1
+443,Male,Single,41,High School,69609,Unemployed/Unskilled,Small City,3
+444,Female,Married,30,High School,178947,management / self-employed / highly qualified employee / officer,Big city,0
+445,Female,Married,41,University,81743,Unemployed/Unskilled,Small City,2
+446,Female,Married,34,High School,111900,Skilled Employee/Official,Mid-sized city,0
+447,Male,Single,35,High School,121650,Skilled Employee/Official,Small City,1
+448,Female,Married,55,University,172639,management / self-employed / highly qualified employee / officer,Big city,2
+449,Male,Married,61,University,175740,Skilled Employee/Official,Mid-sized city,2
+451,Female,Married,29,High School,95200,Skilled Employee/Official,Mid-sized city,0
+452,Male,Single,34,High School,113609,Skilled Employee/Official,Mid-sized city,1
+453,Male,Single,35,High School,143552,management / self-employed / highly qualified employee / officer,Big city,1
+454,Male,Single,31,other/unknown,130973,Skilled Employee/Official,Big city,1
+455,Female,Married,29,High School,145946,management / self-employed / highly qualified employee / officer,Big city,0
+456,Male,Single,36,High School,126206,Skilled Employee/Official,Mid-sized city,1
+457,Male,Single,35,High School,120426,Skilled Employee/Official,Small City,1
+458,Female,Married,27,High School,91925,Skilled Employee/Official,Big city,0
+459,Male,Single,32,other/unknown,129630,Skilled Employee/Official,Big city,1
+460,Male,Single,37,High School,124268,Skilled Employee/Official,Big city,1
+461,Male,Single,36,High School,105240,Skilled Employee/Official,Mid-sized city,1
+462,Female,Married,34,High School,162180,management / self-employed / highly qualified employee / officer,Small City,0
+463,Male,Single,38,High School,106552,Skilled Employee/Official,Big city,1
+464,Male,Single,34,High School,105843,Skilled Employee/Official,Big city,1
+465,Male,Single,63,University,138327,Skilled Employee/Official,Mid-sized city,2
+466,Female,Married,29,High School,76154,Unemployed/Unskilled,Small City,3
+467,Male,Single,32,other/unknown,155012,Skilled Employee/Official,Mid-sized city,1
+468,Female,Married,26,High School,114369,Skilled Employee/Official,Mid-sized city,0
+469,Male,Single,35,High School,102839,Unemployed/Unskilled,Small City,3
+470,Male,Married,22,High School,132796,Skilled Employee/Official,Small City,0
+471,Female,Married,23,High School,89742,Skilled Employee/Official,Big city,0
+472,Male,Single,28,other/unknown,58615,Unemployed/Unskilled,Small City,3
+473,Male,Single,36,High School,130603,management / self-employed / highly qualified employee / officer,Big city,1
+474,Male,Married,33,High School,110340,Skilled Employee/Official,Small City,0
+475,Female,Married,26,High School,117729,Skilled Employee/Official,Big city,0
+476,Male,Single,24,other/unknown,130808,Skilled Employee/Official,Small City,1
+477,Male,Single,25,other/unknown,147402,Skilled Employee/Official,Big city,1
+478,Male,Single,39,High School,93567,Unemployed/Unskilled,Small City,3
+479,Male,Single,44,High School,109289,Skilled Employee/Official,Mid-sized city,1
+480,Female,Married,23,High School,98742,Unemployed/Unskilled,Small City,3
+481,Male,Single,26,other/unknown,101270,Skilled Employee/Official,Small City,1
+482,Female,Married,57,University,187835,Skilled Employee/Official,Mid-sized city,2
+483,Female,Married,30,High School,140741,Skilled Employee/Official,Small City,0
+484,Male,Single,44,High School,133265,Skilled Employee/Official,Big city,1
+485,Male,Single,47,High School,148100,management / self-employed / highly qualified employee / officer,Big city,1
+486,Male,Single,52,High School,131021,Skilled Employee/Official,Big city,1
+487,Female,Married,62,University,152620,Skilled Employee/Official,Big city,2
+488,Male,Single,35,High School,85033,Unemployed/Unskilled,Small City,3
+489,Male,Single,26,other/unknown,114514,Skilled Employee/Official,Mid-sized city,1
+490,Male,Single,26,other/unknown,99307,Skilled Employee/Official,Mid-sized city,1
+492,Female,Married,27,High School,114007,Skilled Employee/Official,Small City,0
+493,Male,Single,38,High School,102846,Skilled Employee/Official,Small City,1
+494,Male,Single,39,High School,81483,Unemployed/Unskilled,Small City,3
+495,Male,Married,20,High School,107779,Skilled Employee/Official,Big city,0
+497,Male,Single,40,High School,107125,Skilled Employee/Official,Small City,1
+498,Male,Married,32,High School,80080,Unemployed/Unskilled,Small City,3
+499,Male,Married,28,High School,129600,Skilled Employee/Official,Small City,0
+500,Female,Married,27,High School,118613,Skilled Employee/Official,Mid-sized city,0
+501,Male,Single,42,High School,146237,Skilled Employee/Official,Mid-sized city,1
+502,Male,Married,49,University,144461,Skilled Employee/Official,Big city,2
+503,Male,Single,38,High School,124487,Skilled Employee/Official,Small City,1
+504,Female,Married,24,High School,97826,Skilled Employee/Official,Small City,0
+505,Male,Single,27,other/unknown,64105,Unemployed/Unskilled,Small City,3
+506,Male,Single,36,High School,156374,Skilled Employee/Official,Big city,1
+508,Male,Married,28,High School,98964,Skilled Employee/Official,Big city,0
+510,Male,Single,26,other/unknown,88027,Skilled Employee/Official,Big city,1
+511,Male,Single,32,other/unknown,160513,management / self-employed / highly qualified employee / officer,Big city,1
+512,Male,Single,26,other/unknown,124536,Skilled Employee/Official,Big city,1
+513,Male,Married,20,High School,93634,Skilled Employee/Official,Small City,0
+514,Male,Single,54,High School,124725,Skilled Employee/Official,Small City,1
+515,Female,Married,37,High School,102456,Skilled Employee/Official,Small City,0
+516,Male,Single,40,High School,74975,Unemployed/Unskilled,Small City,3
+517,Female,Married,23,High School,153861,Skilled Employee/Official,Mid-sized city,0
+518,Male,Single,43,High School,119351,Skilled Employee/Official,Big city,1
+519,Male,Single,36,High School,95438,Skilled Employee/Official,Big city,1
+520,Male,Single,44,High School,147967,Skilled Employee/Official,Big city,1
+521,Female,Married,24,High School,116863,Skilled Employee/Official,Mid-sized city,0
+522,Male,Single,53,High School,170622,Skilled Employee/Official,Mid-sized city,1
+523,Female,Married,23,High School,132426,Skilled Employee/Official,Mid-sized city,0
+524,Female,Married,26,High School,77519,Unemployed/Unskilled,Small City,3
+525,Male,Single,30,other/unknown,169405,Skilled Employee/Official,Big city,1
+526,Female,Married,31,High School,120030,Skilled Employee/Official,Small City,0
+527,Male,Single,42,High School,77933,Unemployed/Unskilled,Small City,3
+528,Male,Married,31,High School,109892,Skilled Employee/Official,Mid-sized city,0
+529,Male,Single,41,High School,69062,Unemployed/Unskilled,Small City,3
+530,Male,Single,32,other/unknown,116348,Skilled Employee/Official,Small City,1
+531,Female,Married,28,High School,137188,Skilled Employee/Official,Mid-sized city,0
+532,Male,Married,41,High School,110199,Skilled Employee/Official,Small City,0
+533,Male,Married,26,High School,109890,Skilled Employee/Official,Mid-sized city,0
+534,Male,Single,25,other/unknown,109751,Skilled Employee/Official,Big city,1
+535,Male,Married,33,High School,129651,Skilled Employee/Official,Mid-sized city,0
+537,Female,Married,37,High School,140285,Skilled Employee/Official,Mid-sized city,0
+539,Female,Married,45,University,120262,Unemployed/Unskilled,Small City,2
+540,Male,Married,23,High School,105137,Skilled Employee/Official,Mid-sized city,0
+541,Male,Single,60,University,127371,Skilled Employee/Official,Small City,2
+542,Male,Single,31,other/unknown,145689,Skilled Employee/Official,Small City,1
+543,Male,Single,34,High School,102617,Unemployed/Unskilled,Mid-sized city,3
+544,Male,Single,61,University,90709,Unemployed/Unskilled,Small City,2
+545,Male,Single,43,High School,107099,Skilled Employee/Official,Mid-sized city,1
+546,Female,Married,37,High School,116021,Skilled Employee/Official,Big city,0
+547,Male,Single,32,other/unknown,100426,Skilled Employee/Official,Big city,1
+548,Female,Married,24,High School,62249,Unemployed/Unskilled,Small City,3
+549,Male,Single,35,High School,172957,Skilled Employee/Official,Mid-sized city,1
+550,Female,Married,23,High School,95003,Skilled Employee/Official,Mid-sized city,0
+551,Male,Single,45,High School,109698,Unemployed/Unskilled,Small City,3
+552,Male,Married,34,High School,157376,Skilled Employee/Official,Small City,0
+553,Male,Single,27,other/unknown,123191,Skilled Employee/Official,Big city,1
+555,Male,Single,22,other/unknown,99328,Skilled Employee/Official,Small City,1
+556,Female,Married,28,High School,133799,Skilled Employee/Official,Big city,0
+557,Female,Married,29,High School,138256,Skilled Employee/Official,Big city,0
+558,Male,Single,27,other/unknown,115638,Skilled Employee/Official,Small City,1
+559,Male,Single,31,other/unknown,82238,Unemployed/Unskilled,Small City,3
+560,Male,Single,49,High School,127543,Skilled Employee/Official,Mid-sized city,1
+561,Male,Single,24,other/unknown,63987,Unemployed/Unskilled,Small City,3
+562,Female,Married,29,High School,114784,Skilled Employee/Official,Small City,0
+564,Male,Single,37,High School,173751,management / self-employed / highly qualified employee / officer,Big city,1
+565,Female,Married,23,High School,122850,Skilled Employee/Official,Small City,0
+566,Male,Married,36,High School,104953,Skilled Employee/Official,Small City,0
+567,Male,Single,34,High School,152371,Skilled Employee/Official,Mid-sized city,1
+568,Male,Single,41,High School,139905,Skilled Employee/Official,Small City,1
+569,Female,Married,31,High School,156700,Skilled Employee/Official,Mid-sized city,0
+570,Female,Married,23,High School,86488,Unemployed/Unskilled,Small City,3
+571,Male,Single,38,High School,147472,Skilled Employee/Official,Small City,1
+572,Female,Married,26,High School,169991,management / self-employed / highly qualified employee / officer,Small City,0
+573,Female,Married,22,High School,62381,Unemployed/Unskilled,Small City,3
+574,Male,Single,27,other/unknown,70926,Unemployed/Unskilled,Small City,3
+575,Female,Married,24,High School,113004,Skilled Employee/Official,Mid-sized city,0
+576,Female,Married,27,High School,125760,Skilled Employee/Official,Small City,0
+577,Female,Married,33,High School,111918,Skilled Employee/Official,Big city,0
+578,Male,Married,27,High School,120674,Skilled Employee/Official,Mid-sized city,0
+579,Male,Married,27,High School,63597,Unemployed/Unskilled,Small City,3
+580,Male,Single,30,other/unknown,103069,Skilled Employee/Official,Mid-sized city,1
+581,Male,Single,49,High School,108079,Unemployed/Unskilled,Small City,3
+582,Female,Married,26,High School,101159,Skilled Employee/Official,Mid-sized city,0
+583,Male,Single,33,High School,88211,Unemployed/Unskilled,Small City,3
+584,Female,Married,52,University,159052,management / self-employed / highly qualified employee / officer,Mid-sized city,2
+585,Female,Married,20,High School,102623,Skilled Employee/Official,Big city,0
+586,Male,Single,36,High School,115589,Skilled Employee/Official,Small City,1
+587,Male,Single,21,other/unknown,59127,Unemployed/Unskilled,Small City,3
+588,Male,Married,47,University,82240,Unemployed/Unskilled,Small City,2
+589,Male,Single,60,University,129425,Skilled Employee/Official,Mid-sized city,2
+590,Female,Married,58,University,87058,Unemployed/Unskilled,Small City,2
+591,Female,Married,42,University,128462,Skilled Employee/Official,Big city,2
+592,Female,Married,36,High School,121403,Unemployed/Unskilled,Small City,3
+593,Female,Married,20,High School,88141,Unemployed/Unskilled,Small City,3
+594,Male,Single,40,High School,134946,management / self-employed / highly qualified employee / officer,Big city,1
+595,Female,Married,32,High School,94058,Unemployed/Unskilled,Small City,3
+596,Female,Married,23,High School,99285,Skilled Employee/Official,Mid-sized city,0
+597,Male,Single,36,High School,108432,Unemployed/Unskilled,Small City,3
+598,Male,Single,31,other/unknown,111369,Skilled Employee/Official,Small City,1
+599,Male,Single,32,other/unknown,122612,Skilled Employee/Official,Big city,1
+600,Female,Married,45,University,134350,Skilled Employee/Official,Small City,2
+601,Female,Married,30,High School,108838,Skilled Employee/Official,Big city,0
+602,Female,Married,34,High School,90852,Unemployed/Unskilled,Small City,3
+603,Female,Married,28,High School,151580,management / self-employed / highly qualified employee / officer,Big city,0
+604,Female,Married,23,High School,115681,Skilled Employee/Official,Mid-sized city,0
+605,Male,Single,22,other/unknown,131699,Skilled Employee/Official,Mid-sized city,1
+607,Female,Married,50,University,155122,Skilled Employee/Official,Big city,2
+608,Male,Single,33,High School,106015,Skilled Employee/Official,Big city,1
+609,Male,Single,45,High School,108378,Skilled Employee/Official,Small City,1
+610,Female,Married,22,High School,105257,Skilled Employee/Official,Mid-sized city,0
+611,Female,Married,48,University,118788,Unemployed/Unskilled,Small City,2
+612,Female,Married,29,High School,162955,Skilled Employee/Official,Big city,0
+613,Female,Married,22,High School,119511,Skilled Employee/Official,Big city,0
+614,Female,Married,22,High School,102000,Skilled Employee/Official,Small City,0
+617,Male,Single,37,High School,124805,Skilled Employee/Official,Small City,1
+618,Female,Married,21,High School,139379,Skilled Employee/Official,Small City,0
+619,Male,Married,49,University,78296,Unemployed/Unskilled,Small City,2
+620,Male,Single,27,other/unknown,125598,Skilled Employee/Official,Mid-sized city,1
+621,Male,Single,32,other/unknown,100215,Skilled Employee/Official,Big city,1
+622,Male,Married,38,High School,130951,Skilled Employee/Official,Big city,1
+623,Female,Married,22,High School,102480,Skilled Employee/Official,Big city,0
+625,Male,Single,35,High School,106919,Skilled Employee/Official,Mid-sized city,1
+626,Male,Single,41,High School,131020,Skilled Employee/Official,Big city,1
+627,Male,Single,29,other/unknown,119429,Skilled Employee/Official,Mid-sized city,1
+628,Male,Single,36,High School,154521,Skilled Employee/Official,Mid-sized city,1
+629,Male,Single,64,University,117842,Unemployed/Unskilled,Small City,2
+630,Female,Married,28,High School,124566,Skilled Employee/Official,Big city,0
+631,Male,Single,44,High School,110009,Skilled Employee/Official,Big city,1
+632,Male,Single,23,other/unknown,101210,Skilled Employee/Official,Mid-sized city,1
+633,Female,Married,19,High School,101258,Skilled Employee/Official,Small City,0
+634,Female,Married,25,High School,79045,Unemployed/Unskilled,Small City,3
+635,Male,Single,47,High School,110866,Skilled Employee/Official,Small City,1
+636,Female,Married,28,High School,129640,Skilled Employee/Official,Big city,0
+638,Female,Married,34,High School,108549,Skilled Employee/Official,Mid-sized city,0
+639,Male,Single,26,other/unknown,122693,Skilled Employee/Official,Small City,1
+641,Male,Single,38,High School,81870,Unemployed/Unskilled,Small City,3
+642,Male,Single,40,High School,179790,management / self-employed / highly qualified employee / officer,Big city,1
+643,Male,Married,33,High School,107158,Skilled Employee/Official,Mid-sized city,0
+644,Male,Married,32,High School,136638,management / self-employed / highly qualified employee / officer,Mid-sized city,0
+645,Male,Single,27,other/unknown,158147,Skilled Employee/Official,Big city,1
+646,Male,Married,32,High School,132587,Skilled Employee/Official,Big city,0
+647,Female,Married,26,High School,128140,Skilled Employee/Official,Big city,0
+648,Male,Single,38,High School,117405,Skilled Employee/Official,Mid-sized city,1
+649,Male,Single,40,High School,68475,Unemployed/Unskilled,Small City,3
+651,Male,Single,37,High School,86967,Unemployed/Unskilled,Small City,3
+652,Male,Single,45,High School,118006,Skilled Employee/Official,Mid-sized city,1
+654,Male,Single,35,High School,110442,Skilled Employee/Official,Small City,1
+655,Male,Single,22,other/unknown,115691,Skilled Employee/Official,Big city,1
+656,Male,Single,41,High School,80232,Unemployed/Unskilled,Small City,3
+657,Male,Single,37,High School,187647,Skilled Employee/Official,Mid-sized city,1
+658,Female,Married,28,High School,138952,Skilled Employee/Official,Mid-sized city,0
+659,Male,Single,41,High School,162772,Skilled Employee/Official,Big city,1
+660,Male,Married,23,High School,111862,Skilled Employee/Official,Mid-sized city,0
+661,Male,Married,23,High School,90051,Skilled Employee/Official,Mid-sized city,0
+662,Male,Single,50,High School,121400,Skilled Employee/Official,Mid-sized city,1
+663,Male,Single,35,High School,137000,management / self-employed / highly qualified employee / officer,Big city,1
+664,Female,Married,50,University,105031,Unemployed/Unskilled,Small City,2
+665,Male,Single,27,other/unknown,172153,management / self-employed / highly qualified employee / officer,Big city,1
+666,Male,Single,34,High School,170184,Skilled Employee/Official,Mid-sized city,1
+667,Female,Married,27,High School,123279,Skilled Employee/Official,Mid-sized city,0
+668,Male,Single,43,High School,140795,Skilled Employee/Official,Small City,1
+669,Male,Single,47,High School,144456,Skilled Employee/Official,Small City,1
+670,Male,Single,27,other/unknown,104773,Unemployed/Unskilled,Small City,3
+671,Male,Single,31,other/unknown,153353,Skilled Employee/Official,Mid-sized city,1
+673,Male,Married,24,High School,129177,Skilled Employee/Official,Big city,0
+674,Male,Single,41,High School,114475,Unemployed/Unskilled,Mid-sized city,1
+675,Female,Married,26,High School,161323,management / self-employed / highly qualified employee / officer,Mid-sized city,0
+676,Male,Single,33,High School,135765,Skilled Employee/Official,Big city,1
+677,Male,Married,24,High School,158421,Skilled Employee/Official,Small City,0
+678,Male,Single,64,University,103941,Unemployed/Unskilled,Small City,2
+679,Female,Married,26,High School,101783,Skilled Employee/Official,Big city,0
+680,Female,Married,56,University,126531,Skilled Employee/Official,Mid-sized city,2
+681,Male,Single,37,High School,111394,Skilled Employee/Official,Mid-sized city,1
+682,Male,Married,33,High School,103577,Skilled Employee/Official,Big city,0
+683,Male,Married,47,University,149545,Skilled Employee/Official,Mid-sized city,2
+684,Male,Single,31,other/unknown,171857,Unemployed/Unskilled,Small City,1
+685,Male,Single,34,High School,149782,Skilled Employee/Official,Mid-sized city,1
+686,Male,Single,27,other/unknown,112470,Skilled Employee/Official,Mid-sized city,1
+687,Male,Single,30,other/unknown,133907,Skilled Employee/Official,Big city,1
+688,Male,Single,35,High School,127849,Skilled Employee/Official,Mid-sized city,1
+689,Male,Single,31,other/unknown,160279,Skilled Employee/Official,Big city,1
+690,Male,Married,25,High School,92366,Skilled Employee/Official,Big city,0
+691,Female,Married,25,High School,104794,Unemployed/Unskilled,Small City,3
+692,Male,Single,29,other/unknown,133436,Skilled Employee/Official,Mid-sized city,1
+693,Male,Single,44,High School,110374,Unemployed/Unskilled,Small City,3
+694,Male,Single,28,other/unknown,104263,Skilled Employee/Official,Mid-sized city,1
+695,Male,Single,50,High School,138752,Skilled Employee/Official,Small City,1
+696,Male,Single,29,other/unknown,102723,Skilled Employee/Official,Small City,1
+697,Female,Married,38,High School,46297,Unemployed/Unskilled,Small City,3
+698,Male,Single,24,other/unknown,96425,Skilled Employee/Official,Mid-sized city,1
+699,Male,Single,40,High School,158197,management / self-employed / highly qualified employee / officer,Mid-sized city,1
+700,Female,Married,29,High School,98008,Unemployed/Unskilled,Small City,3
+701,Male,Single,46,High School,157473,Skilled Employee/Official,Small City,1
+702,Female,Married,47,University,149306,Skilled Employee/Official,Small City,2
+703,Male,Single,41,High School,139236,Skilled Employee/Official,Mid-sized city,1
+704,Female,Married,32,High School,125890,Skilled Employee/Official,Big city,0
+705,Female,Married,35,High School,173124,Skilled Employee/Official,Mid-sized city,0
+706,Male,Single,24,other/unknown,164621,Skilled Employee/Official,Mid-sized city,1
+707,Female,Married,25,High School,124539,Skilled Employee/Official,Mid-sized city,0
+708,Female,Married,25,High School,107614,Skilled Employee/Official,Mid-sized city,0
+709,Male,Single,37,High School,88849,Unemployed/Unskilled,Small City,3
+710,Male,Single,32,other/unknown,148566,management / self-employed / highly qualified employee / officer,Big city,1
+711,Female,Married,35,High School,106515,Skilled Employee/Official,Big city,0
+712,Male,Single,46,High School,150465,management / self-employed / highly qualified employee / officer,Mid-sized city,1
+713,Male,Single,25,other/unknown,60868,Unemployed/Unskilled,Small City,3
+715,Male,Single,63,University,183178,Skilled Employee/Official,Mid-sized city,2
+716,Male,Single,40,High School,121448,Skilled Employee/Official,Big city,1
+717,Male,Single,32,other/unknown,129975,management / self-employed / highly qualified employee / officer,Big city,1
+718,Male,Single,31,other/unknown,132950,Skilled Employee/Official,Big city,1
+719,Male,Married,31,High School,169314,Skilled Employee/Official,Mid-sized city,0
+720,Male,Single,34,High School,147958,management / self-employed / highly qualified employee / officer,Mid-sized city,1
+721,Female,Married,24,High School,139896,Skilled Employee/Official,Big city,0
+722,Female,Married,24,High School,68028,Unemployed/Unskilled,Small City,3
+724,Female,Married,21,High School,108518,Skilled Employee/Official,Big city,0
+725,Female,Married,41,University,112700,Unemployed/Unskilled,Small City,2
+726,Male,Married,47,University,110190,Unemployed/Unskilled,Small City,2
+727,Female,Married,25,High School,105104,Skilled Employee/Official,Mid-sized city,0
+728,Female,Married,59,University,184753,Skilled Employee/Official,Mid-sized city,2
+729,Male,Married,36,High School,162521,Skilled Employee/Official,Big city,1
+730,Male,Single,33,High School,156794,Skilled Employee/Official,Mid-sized city,1
+731,Male,Single,21,other/unknown,65827,Unemployed/Unskilled,Small City,3
+732,Female,Married,44,University,88490,Unemployed/Unskilled,Small City,2
+733,Female,Married,28,High School,154919,Skilled Employee/Official,Big city,0
+734,Female,Married,37,High School,129058,Skilled Employee/Official,Small City,0
+735,Female,Married,29,High School,77532,Unemployed/Unskilled,Small City,3
+737,Male,Single,35,High School,113468,Unemployed/Unskilled,Small City,3
+738,Male,Single,45,High School,190803,management / self-employed / highly qualified employee / officer,Big city,1
+739,Female,Married,26,High School,121423,Unemployed/Unskilled,Small City,3
+740,Male,Single,32,other/unknown,121347,Skilled Employee/Official,Mid-sized city,1
+741,Male,Single,23,other/unknown,67408,Unemployed/Unskilled,Small City,3
+742,Male,Single,41,High School,123043,Skilled Employee/Official,Mid-sized city,1
+743,Male,Single,22,other/unknown,128387,Skilled Employee/Official,Big city,1
+745,Male,Single,28,other/unknown,69588,Unemployed/Unskilled,Small City,3
+746,Female,Married,23,High School,109547,Skilled Employee/Official,Mid-sized city,0
+747,Female,Married,37,High School,78840,Unemployed/Unskilled,Small City,3
+748,Male,Single,26,other/unknown,131122,Skilled Employee/Official,Small City,1
+749,Male,Single,33,High School,115403,Skilled Employee/Official,Mid-sized city,1
+750,Female,Married,49,University,110291,Skilled Employee/Official,Big city,2
+751,Female,Married,23,High School,64811,Unemployed/Unskilled,Small City,3
+752,Female,Married,23,High School,86015,Unemployed/Unskilled,Small City,3
+753,Female,Married,25,High School,142438,Skilled Employee/Official,Big city,0
+754,Male,Single,55,High School,159303,Skilled Employee/Official,Mid-sized city,1
+755,Female,Married,32,High School,104957,Skilled Employee/Official,Mid-sized city,0
+757,Male,Single,39,High School,121313,Skilled Employee/Official,Mid-sized city,1
+758,Male,Single,31,other/unknown,98102,Skilled Employee/Official,Small City,1
+759,Male,Single,35,High School,94554,Skilled Employee/Official,Mid-sized city,1
+760,Female,Married,59,University,162591,Skilled Employee/Official,Mid-sized city,2
+761,Female,Married,24,High School,106629,Skilled Employee/Official,Big city,0
+762,Male,Single,24,other/unknown,70400,Unemployed/Unskilled,Small City,3
+764,Male,Married,27,High School,121747,Skilled Employee/Official,Big city,0
+765,Male,Married,40,High School,85060,Unemployed/Unskilled,Small City,3
+766,Male,Married,31,High School,87630,Unemployed/Unskilled,Small City,3
+767,Female,Married,31,High School,119673,Skilled Employee/Official,Small City,0
+768,Male,Single,28,other/unknown,126060,Skilled Employee/Official,Big city,1
+769,Male,Single,63,University,96145,Unemployed/Unskilled,Small City,2
+770,Female,Married,26,High School,114830,Skilled Employee/Official,Small City,0
+771,Female,Married,25,High School,194461,management / self-employed / highly qualified employee / officer,Big city,0
+772,Male,Single,36,High School,150158,management / self-employed / highly qualified employee / officer,Big city,1
+773,Male,Single,52,High School,136323,Skilled Employee/Official,Big city,1
+775,Female,Married,25,High School,100198,Skilled Employee/Official,Small City,0
+776,Male,Single,37,High School,123452,Skilled Employee/Official,Big city,1
+777,Female,Married,25,High School,120723,Skilled Employee/Official,Mid-sized city,0
+780,Male,Single,25,other/unknown,136300,Skilled Employee/Official,Mid-sized city,1
+781,Male,Single,60,University,166988,Skilled Employee/Official,Big city,2
+782,Male,Single,31,other/unknown,77265,Unemployed/Unskilled,Small City,3
+783,Female,Married,23,High School,85967,Unemployed/Unskilled,Small City,3
+785,Male,Single,35,High School,126054,Unemployed/Unskilled,Small City,3
+786,Male,Single,40,High School,144589,Skilled Employee/Official,Small City,1
+787,Male,Single,38,High School,116723,Skilled Employee/Official,Mid-sized city,1
+788,Male,Single,50,High School,168637,Skilled Employee/Official,Mid-sized city,1
+789,Male,Single,27,other/unknown,139119,Skilled Employee/Official,Mid-sized city,1
+790,Female,Married,39,University,118610,Skilled Employee/Official,Big city,2
+791,Male,Single,41,High School,183312,management / self-employed / highly qualified employee / officer,Big city,1
+792,Male,Married,27,High School,96323,Skilled Employee/Official,Small City,0
+793,Male,Married,51,University,149510,Skilled Employee/Official,Big city,2
+794,Male,Single,32,other/unknown,141922,Skilled Employee/Official,Big city,1
+795,Female,Married,22,High School,120233,Skilled Employee/Official,Small City,0
+796,Male,Single,51,High School,172790,Skilled Employee/Official,Mid-sized city,1
+797,Female,Married,22,High School,66720,Unemployed/Unskilled,Small City,3
+798,Male,Married,54,University,113024,Skilled Employee/Official,Mid-sized city,2
+799,Male,Single,35,High School,51791,Unemployed/Unskilled,Small City,3
+800,Male,Single,54,High School,118408,Skilled Employee/Official,Big city,1
+801,Female,Married,48,University,101616,Unemployed/Unskilled,Small City,2
+802,Female,Married,24,High School,127250,Skilled Employee/Official,Small City,0
+803,Male,Single,35,High School,97290,Skilled Employee/Official,Small City,1
+804,Female,Married,24,High School,106970,Unemployed/Unskilled,Small City,3
+805,Male,Single,24,other/unknown,168147,Skilled Employee/Official,Big city,1
+806,Male,Married,26,High School,68468,Unemployed/Unskilled,Small City,3
+809,Female,Married,26,High School,53903,Unemployed/Unskilled,Small City,3
+810,Male,Married,26,High School,101511,Skilled Employee/Official,Big city,0
+811,Male,Married,28,High School,69046,Unemployed/Unskilled,Small City,3
+812,Male,Single,24,other/unknown,171584,Skilled Employee/Official,Mid-sized city,1
+813,Male,Single,54,High School,132367,Skilled Employee/Official,Big city,1
+814,Male,Single,46,High School,134433,Skilled Employee/Official,Big city,1
+815,Female,Married,54,University,190518,Skilled Employee/Official,Small City,2
+816,Male,Married,62,University,152367,Skilled Employee/Official,Mid-sized city,2
+817,Female,Married,24,High School,101157,Skilled Employee/Official,Mid-sized city,0
+819,Male,Married,26,High School,96716,Skilled Employee/Official,Big city,0
+820,Male,Married,27,High School,95171,Skilled Employee/Official,Small City,0
+821,Male,Married,24,High School,129162,Skilled Employee/Official,Big city,0
+822,Male,Single,41,High School,118742,Skilled Employee/Official,Small City,1
+823,Male,Single,47,High School,74511,Unemployed/Unskilled,Small City,3
+824,Male,Married,35,High School,157272,management / self-employed / highly qualified employee / officer,Mid-sized city,0
+825,Male,Married,30,High School,102374,Skilled Employee/Official,Small City,0
+826,Female,Married,33,High School,131492,Skilled Employee/Official,Small City,0
+827,Male,Single,36,High School,128702,Skilled Employee/Official,Big city,1
+828,Male,Single,47,High School,177509,Skilled Employee/Official,Big city,1
+829,Male,Single,38,High School,163451,Skilled Employee/Official,Mid-sized city,1
+830,Male,Single,44,High School,144900,Skilled Employee/Official,Mid-sized city,1
+831,Female,Married,23,High School,97115,Skilled Employee/Official,Big city,0
+833,Female,Married,42,University,158405,Skilled Employee/Official,Small City,2
+834,Female,Married,25,High School,97376,Unemployed/Unskilled,Small City,3
+835,Male,Single,48,High School,108678,Skilled Employee/Official,Mid-sized city,1
+836,Female,Married,21,High School,92351,Skilled Employee/Official,Small City,0
+837,Female,Married,23,High School,61211,Unemployed/Unskilled,Small City,3
+838,Male,Single,63,University,138644,Skilled Employee/Official,Small City,2
+839,Male,Married,46,University,124824,Skilled Employee/Official,Big city,2
+840,Male,Single,29,other/unknown,132852,Skilled Employee/Official,Small City,1
+841,Male,Single,28,other/unknown,81069,Unemployed/Unskilled,Small City,3
+842,Female,Married,23,High School,104094,Skilled Employee/Official,Big city,0
+843,Male,Single,50,High School,114853,Skilled Employee/Official,Small City,1
+844,Male,Single,47,High School,130344,Skilled Employee/Official,Big city,1
+845,Male,Single,35,High School,135090,Skilled Employee/Official,Small City,1
+847,Male,Married,28,High School,97390,Skilled Employee/Official,Mid-sized city,0
+848,Male,Single,59,University,120160,Skilled Employee/Official,Small City,2
+849,Male,Single,57,University,82277,Unemployed/Unskilled,Small City,2
+850,Male,Married,33,High School,110844,Skilled Employee/Official,Big city,0
+851,Male,Single,43,High School,133105,Skilled Employee/Official,Small City,1
+852,Male,Single,35,High School,102042,Skilled Employee/Official,Small City,1
+853,Male,Single,32,other/unknown,69370,Unemployed/Unskilled,Small City,3
+855,Male,Married,33,High School,117039,Skilled Employee/Official,Big city,0
+856,Female,Married,40,University,107585,Skilled Employee/Official,Big city,2
+857,Male,Single,28,other/unknown,114429,Skilled Employee/Official,Small City,1
+858,Female,Married,29,High School,128234,Skilled Employee/Official,Big city,0
+859,Male,Single,26,other/unknown,128580,Skilled Employee/Official,Big city,1
+860,Male,Single,27,other/unknown,177757,Skilled Employee/Official,Mid-sized city,1
+861,Male,Married,28,High School,106222,Skilled Employee/Official,Small City,0
+862,Female,Married,35,High School,118428,Skilled Employee/Official,Big city,0
+863,Male,Single,32,other/unknown,139477,Unemployed/Unskilled,Small City,3
+864,Male,Single,25,other/unknown,71159,Unemployed/Unskilled,Small City,3
+865,Female,Married,20,High School,131370,Skilled Employee/Official,Big city,0
+866,Female,Married,27,High School,111567,Skilled Employee/Official,Big city,0
+867,Male,Single,42,High School,125482,Skilled Employee/Official,Big city,1
+868,Male,Single,37,High School,160642,Skilled Employee/Official,Big city,1
+869,Female,Married,24,High School,92498,Skilled Employee/Official,Small City,0
+871,Male,Single,46,High School,127588,Skilled Employee/Official,Big city,1
+872,Male,Single,26,other/unknown,107508,Skilled Employee/Official,Big city,1
+873,Female,Married,24,High School,94629,Skilled Employee/Official,Big city,0
+874,Male,Single,29,other/unknown,87598,Unemployed/Unskilled,Big city,1
+875,Female,Married,40,University,161194,Skilled Employee/Official,Mid-sized city,2
+876,Male,Single,36,High School,137342,management / self-employed / highly qualified employee / officer,Big city,1
+877,Male,Single,28,other/unknown,116848,Skilled Employee/Official,Mid-sized city,1
+878,Male,Single,27,other/unknown,125190,management / self-employed / highly qualified employee / officer,Mid-sized city,1
+879,Male,Single,36,High School,153441,Skilled Employee/Official,Small City,1
+880,Male,Single,38,High School,195328,management / self-employed / highly qualified employee / officer,Big city,1
+881,Male,Married,48,University,190413,Skilled Employee/Official,Small City,2
+882,Male,Single,36,High School,118656,Skilled Employee/Official,Mid-sized city,1
+884,Male,Married,43,University,145313,Skilled Employee/Official,Mid-sized city,2
+885,Female,Married,53,University,117005,Skilled Employee/Official,Mid-sized city,2
+886,Male,Single,34,High School,123243,Skilled Employee/Official,Mid-sized city,1
+888,Male,Single,34,High School,180617,management / self-employed / highly qualified employee / officer,Big city,1
+889,Male,Single,40,High School,167019,Skilled Employee/Official,Small City,1
+890,Male,Single,43,High School,147745,management / self-employed / highly qualified employee / officer,Big city,1
+891,Male,Single,46,High School,114254,Skilled Employee/Official,Mid-sized city,1
+892,Male,Single,38,High School,81155,Unemployed/Unskilled,Small City,3
+893,Male,Single,34,High School,151803,Skilled Employee/Official,Big city,1
+894,Male,Single,29,other/unknown,94356,Skilled Employee/Official,Big city,1
+896,Female,Married,28,High School,144448,management / self-employed / highly qualified employee / officer,Mid-sized city,0
+897,Female,Married,35,High School,150797,Skilled Employee/Official,Small City,0
+898,Female,Married,33,High School,84404,Unemployed/Unskilled,Small City,3
+899,Male,Single,42,High School,133373,Skilled Employee/Official,Big city,1
+900,Male,Single,43,High School,119502,Skilled Employee/Official,Big city,1
+901,Male,Married,44,University,131619,Skilled Employee/Official,Small City,2
+902,Male,Single,42,High School,194084,Skilled Employee/Official,Big city,1
+903,Male,Married,40,High School,108278,Skilled Employee/Official,Mid-sized city,0
+904,Male,Single,36,High School,130987,management / self-employed / highly qualified employee / officer,Mid-sized city,1
+905,Male,Single,20,other/unknown,116582,management / self-employed / highly qualified employee / officer,Big city,1
+906,Male,Single,24,other/unknown,85270,Unemployed/Unskilled,Small City,3
+907,Male,Married,27,High School,129227,Skilled Employee/Official,Small City,0
+908,Female,Married,46,University,108291,Unemployed/Unskilled,Small City,2
+909,Female,Married,33,High School,103091,Unemployed/Unskilled,Small City,3
+910,Female,Married,34,High School,136975,Skilled Employee/Official,Mid-sized city,0
+911,Female,Married,25,High School,111502,Unemployed/Unskilled,Small City,3
+912,Female,Married,25,High School,124750,Skilled Employee/Official,Mid-sized city,0
+913,Male,Married,28,High School,146463,Skilled Employee/Official,Big city,0
+914,Male,Single,31,other/unknown,115075,Skilled Employee/Official,Small City,1
+916,Male,Single,32,other/unknown,126368,Skilled Employee/Official,Small City,1
+918,Male,Married,33,High School,125535,Skilled Employee/Official,Big city,0
+919,Male,Single,39,High School,153223,management / self-employed / highly qualified employee / officer,Big city,1
+920,Female,Married,28,High School,106873,Skilled Employee/Official,Mid-sized city,0
+922,Female,Married,22,High School,97757,Skilled Employee/Official,Big city,0
+923,Male,Single,30,other/unknown,112151,Skilled Employee/Official,Mid-sized city,1
+924,Male,Married,55,University,172909,Skilled Employee/Official,Small City,2
+925,Male,Single,46,High School,103387,Skilled Employee/Official,Mid-sized city,1
+926,Female,Married,21,High School,93916,Skilled Employee/Official,Big city,0
+927,Male,Single,39,High School,189963,Skilled Employee/Official,Big city,1
+928,Male,Single,58,University,124191,Skilled Employee/Official,Small City,2
+929,Male,Single,43,High School,77205,Unemployed/Unskilled,Small City,3
+930,Male,Single,24,other/unknown,65917,Unemployed/Unskilled,Small City,3
+931,Female,Married,22,High School,109676,Skilled Employee/Official,Small City,0
+932,Male,Single,30,other/unknown,95682,Skilled Employee/Official,Big city,1
+933,Male,Single,42,High School,125516,Skilled Employee/Official,Big city,1
+934,Female,Married,23,High School,99822,Skilled Employee/Official,Small City,0
+935,Male,Single,30,other/unknown,154854,management / self-employed / highly qualified employee / officer,Mid-sized city,1
+936,Female,Married,28,High School,84582,Unemployed/Unskilled,Small City,3
+937,Male,Married,30,High School,145800,management / self-employed / highly qualified employee / officer,Small City,0
+938,Male,Single,42,High School,162869,Skilled Employee/Official,Mid-sized city,1
+939,Male,Single,46,High School,192379,management / self-employed / highly qualified employee / officer,Big city,1
+940,Male,Single,45,High School,159757,management / self-employed / highly qualified employee / officer,Big city,1
+941,Male,Single,31,other/unknown,69571,Unemployed/Unskilled,Small City,3
+942,Male,Single,31,other/unknown,93648,Skilled Employee/Official,Big city,1
+943,Male,Single,42,High School,77472,Unemployed/Unskilled,Small City,3
+944,Female,Married,46,University,121501,Skilled Employee/Official,Small City,2
+946,Male,Single,30,other/unknown,143082,Skilled Employee/Official,Big city,1
+947,Male,Single,38,High School,147760,management / self-employed / highly qualified employee / officer,Mid-sized city,1
+948,Male,Married,43,University,82082,Unemployed/Unskilled,Small City,2
+949,Male,Single,31,other/unknown,132991,Skilled Employee/Official,Mid-sized city,1
+950,Male,Married,40,High School,78436,Unemployed/Unskilled,Small City,3
+951,Male,Single,24,other/unknown,99737,Skilled Employee/Official,Big city,1
+952,Female,Married,28,High School,164915,Skilled Employee/Official,Small City,0
+954,Female,Married,29,High School,108400,Skilled Employee/Official,Big city,0
+955,Female,Married,57,University,194882,management / self-employed / highly qualified employee / officer,Mid-sized city,2
+956,Male,Single,49,High School,122186,Unemployed/Unskilled,Small City,3
+957,Male,Single,37,High School,79594,Unemployed/Unskilled,Small City,3
+958,Male,Single,45,High School,104355,Unemployed/Unskilled,Small City,3
+959,Male,Single,30,other/unknown,135894,Skilled Employee/Official,Big city,1
+960,Male,Married,30,High School,103699,Skilled Employee/Official,Mid-sized city,0
+961,Male,Married,47,University,132145,Skilled Employee/Official,Mid-sized city,2
+962,Male,Single,29,other/unknown,117272,Skilled Employee/Official,Big city,1
+963,Male,Single,35,High School,137932,Skilled Employee/Official,Small City,1
+964,Male,Married,22,High School,63972,Unemployed/Unskilled,Small City,3
+965,Female,Married,26,High School,113299,Skilled Employee/Official,Big city,0
+966,Male,Single,23,other/unknown,108540,Unemployed/Unskilled,Small City,3
+967,Female,Married,54,University,174424,management / self-employed / highly qualified employee / officer,Big city,2
+968,Male,Married,29,High School,154991,Skilled Employee/Official,Big city,0
+969,Male,Single,40,High School,99723,Unemployed/Unskilled,Small City,3
+970,Male,Single,22,other/unknown,114584,Skilled Employee/Official,Big city,1
+971,Male,Single,43,High School,135275,Unemployed/Unskilled,Small City,3
+972,Female,Married,29,High School,41680,Unemployed/Unskilled,Small City,3
+973,Male,Single,36,High School,158769,Skilled Employee/Official,Mid-sized city,1
+974,Female,Married,33,High School,120596,Skilled Employee/Official,Small City,0
+975,Female,Married,57,University,139641,Unemployed/Unskilled,Small City,2
+976,Female,Married,64,Graduate School,134377,Skilled Employee/Official,Small City,2
+977,Male,Single,42,High School,125804,Skilled Employee/Official,Big city,1
+978,Male,Single,47,High School,91858,Unemployed/Unskilled,Small City,3
+979,Male,Married,25,High School,117641,Skilled Employee/Official,Big city,0
+980,Male,Single,49,High School,188594,Skilled Employee/Official,Mid-sized city,1
+981,Male,Single,33,High School,162827,management / self-employed / highly qualified employee / officer,Big city,1
+982,Female,Married,28,High School,178991,management / self-employed / highly qualified employee / officer,Big city,0
+983,Male,Single,26,other/unknown,159739,Skilled Employee/Official,Mid-sized city,1
+984,Male,Single,30,other/unknown,73401,Unemployed/Unskilled,Small City,3
+985,Female,Married,25,High School,100794,Skilled Employee/Official,Big city,0
+986,Male,Married,33,High School,167763,Skilled Employee/Official,Mid-sized city,0
+987,Female,Married,64,Graduate School,145174,Skilled Employee/Official,Small City,2
+988,Male,Single,29,other/unknown,176292,management / self-employed / highly qualified employee / officer,Mid-sized city,1
+989,Male,Single,48,High School,94024,Unemployed/Unskilled,Small City,3
+990,Male,Single,37,High School,93740,Unemployed/Unskilled,Small City,3
+991,Male,Single,34,High School,85685,Unemployed/Unskilled,Small City,3
+992,Male,Married,23,High School,69997,Unemployed/Unskilled,Small City,3
+993,Male,Single,30,other/unknown,151938,management / self-employed / highly qualified employee / officer,Big city,1
+994,Male,Single,50,High School,122830,Skilled Employee/Official,Mid-sized city,1
+995,Female,Married,31,High School,78489,Unemployed/Unskilled,Small City,3
+996,Male,Married,40,High School,161999,management / self-employed / highly qualified employee / officer,Mid-sized city,1
+997,Male,Single,38,High School,98032,Skilled Employee/Official,Big city,1
+998,Male,Single,23,other/unknown,96060,Skilled Employee/Official,Small City,1
+999,Male,Single,27,other/unknown,147968,Skilled Employee/Official,Mid-sized city,1
+1000,Female,Married,63,University,134853,Skilled Employee/Official,Mid-sized city,2
+1006,Male,Single,60,University,136671,Skilled Employee/Official,Mid-sized city,2
+1007,Male,Married,62,University,174337,Skilled Employee/Official,Mid-sized city,2
+1008,Female,Married,58,University,126710,Skilled Employee/Official,Mid-sized city,2
+1009,Female,Married,43,University,167139,management / self-employed / highly qualified employee / officer,Big city,2
+1010,Male,Single,64,University,122094,Skilled Employee/Official,Big city,2
+1011,Male,Married,37,Graduate School,170113,management / self-employed / highly qualified employee / officer,Big city,2
+1012,Female,Married,46,University,192698,management / self-employed / highly qualified employee / officer,Mid-sized city,2
+1013,Male,Married,57,University,144197,Skilled Employee/Official,Big city,2
+1014,Male,Married,51,University,133623,Skilled Employee/Official,Mid-sized city,2
+1015,Female,Married,32,Graduate School,171052,management / self-employed / highly qualified employee / officer,Big city,2
+1016,Male,Single,64,University,130492,Skilled Employee/Official,Big city,2
+1018,Female,Married,55,University,171804,management / self-employed / highly qualified employee / officer,Big city,2
+1020,Female,Married,34,Graduate School,134377,Skilled Employee/Official,Big city,2
+1021,Male,Married,44,University,146716,Skilled Employee/Official,Mid-sized city,2
+1024,Female,Married,56,University,183765,Skilled Employee/Official,Mid-sized city,2
+1030,Male,Single,60,University,166298,management / self-employed / highly qualified employee / officer,Mid-sized city,2
+1031,Female,Married,30,Graduate School,133328,Unemployed/Unskilled,Big city,2
+1032,Male,Single,63,University,129798,Skilled Employee/Official,Mid-sized city,2
+1034,Female,Married,46,University,160678,Skilled Employee/Official,Big city,2
+1038,Male,Married,54,University,149410,Skilled Employee/Official,Big city,2
+1039,Male,Married,49,University,124658,Skilled Employee/Official,Big city,2
+1040,Female,Married,64,University,153645,Skilled Employee/Official,Big city,2
+1042,Female,Married,57,University,155062,Skilled Employee/Official,Big city,2
+1044,Male,Single,62,University,124723,Skilled Employee/Official,Big city,2
+1045,Female,Married,41,University,127752,Skilled Employee/Official,Big city,2
+1046,Female,Married,51,University,157595,management / self-employed / highly qualified employee / officer,Mid-sized city,2
+1047,Female,Married,38,University,135534,Skilled Employee/Official,Big city,2
+1048,Female,Married,56,University,166264,management / self-employed / highly qualified employee / officer,Big city,2
+1049,Female,Married,43,University,147259,Skilled Employee/Official,Mid-sized city,2
+1050,Female,Married,48,University,161116,Skilled Employee/Official,Mid-sized city,2
+1051,Male,Single,61,University,139380,Skilled Employee/Official,Mid-sized city,2
+1054,Female,Married,62,University,163940,Skilled Employee/Official,Mid-sized city,2
+1055,Female,Married,56,University,173378,management / self-employed / highly qualified employee / officer,Big city,2
+1056,Female,Married,53,University,126847,Skilled Employee/Official,Mid-sized city,2
+1057,Male,Married,33,Graduate School,166712,Skilled Employee/Official,Big city,2
+1058,Female,Married,60,University,189166,Skilled Employee/Official,Mid-sized city,2
+1059,Female,Married,47,University,161714,Skilled Employee/Official,Mid-sized city,2
+1061,Male,Single,64,University,184680,Skilled Employee/Official,Mid-sized city,2
+1065,Female,Married,60,University,194532,management / self-employed / highly qualified employee / officer,Mid-sized city,2
+1066,Female,Married,57,University,125883,Skilled Employee/Official,Big city,2
+1067,Male,Married,30,Graduate School,131242,Skilled Employee/Official,Big city,2
+1068,Male,Married,43,University,159880,management / self-employed / highly qualified employee / officer,Mid-sized city,2
+1069,Male,Single,57,University,165519,Skilled Employee/Official,Big city,2
+1070,Male,Married,51,University,149653,Skilled Employee/Official,Mid-sized city,2
+1071,Female,Married,61,University,134102,Skilled Employee/Official,Mid-sized city,2
+1072,Male,Single,64,University,159378,management / self-employed / highly qualified employee / officer,Big city,2
+1077,Male,Single,59,University,136123,Skilled Employee/Official,Mid-sized city,2
+1078,Male,Married,60,University,176372,Skilled Employee/Official,Mid-sized city,2
+1079,Female,Married,60,University,128271,Skilled Employee/Official,Mid-sized city,2
+1080,Female,Married,45,University,169020,management / self-employed / highly qualified employee / officer,Big city,2
+1081,Male,Single,63,University,122267,Skilled Employee/Official,Big city,2
+1082,Male,Married,38,Graduate School,169324,management / self-employed / highly qualified employee / officer,Big city,2
+1083,Female,Married,46,University,192561,management / self-employed / highly qualified employee / officer,Mid-sized city,2
+1084,Male,Married,55,University,145781,Skilled Employee/Official,Big city,2
+1085,Male,Married,50,University,135376,Skilled Employee/Official,Mid-sized city,2
+1086,Female,Married,30,Graduate School,169002,management / self-employed / highly qualified employee / officer,Big city,2
+1087,Male,Single,63,University,128469,Skilled Employee/Official,Big city,2
+1089,Female,Married,54,University,170644,management / self-employed / highly qualified employee / officer,Big city,2
+1091,Female,Married,32,Graduate School,133235,Skilled Employee/Official,Big city,2
+1094,Male,Single,62,University,164816,management / self-employed / highly qualified employee / officer,Mid-sized city,2
+1095,Female,Married,28,Graduate School,130148,Unemployed/Unskilled,Big city,2
+1098,Female,Married,48,University,157305,Skilled Employee/Official,Big city,2
+1100,Male,Single,38,High School,82398,Skilled Employee/Official,Mid-sized city,1
+1101,Male,Married,40,High School,107710,Skilled Employee/Official,Mid-sized city,0
+1102,Male,Single,49,High School,122346,Skilled Employee/Official,Mid-sized city,1
+1103,Male,Married,32,High School,155540,management / self-employed / highly qualified employee / officer,Mid-sized city,0
+1104,Male,Single,45,High School,127572,Skilled Employee/Official,Mid-sized city,1
+1105,Male,Single,40,High School,154031,management / self-employed / highly qualified employee / officer,Mid-sized city,1
+1107,Male,Single,38,High School,123003,Skilled Employee/Official,Big city,1
+1108,Male,Married,20,High School,89605,Skilled Employee/Official,Mid-sized city,0
+1109,Male,Single,48,High School,117721,Skilled Employee/Official,Mid-sized city,1
+1110,Male,Married,46,University,168904,management / self-employed / highly qualified employee / officer,Mid-sized city,2
+1111,Male,Single,32,High School,137576,management / self-employed / highly qualified employee / officer,Big city,1
+1112,Male,Single,54,High School,111274,Skilled Employee/Official,Mid-sized city,1
+1113,Male,Married,24,High School,94249,management / self-employed / highly qualified employee / officer,Big city,0
+1114,Male,Married,27,High School,180940,management / self-employed / highly qualified employee / officer,Mid-sized city,0
+1115,Male,Single,57,High School,125032,Skilled Employee/Official,Big city,1
+1116,Male,Single,38,High School,138011,management / self-employed / highly qualified employee / officer,Mid-sized city,1
+1117,Male,Single,40,High School,144850,Skilled Employee/Official,Mid-sized city,1
+1118,Male,Married,20,High School,107270,Skilled Employee/Official,Big city,0
+1119,Male,Single,36,High School,113405,management / self-employed / highly qualified employee / officer,Big city,1
+1120,Male,Single,47,High School,137338,Skilled Employee/Official,Big city,1
+1121,Male,Single,64,University,125119,Unemployed/Unskilled,Big city,2
+1122,Male,Single,42,High School,159745,management / self-employed / highly qualified employee / officer,Big city,1
+1123,Male,Single,44,High School,181262,management / self-employed / highly qualified employee / officer,Big city,1
+1124,Male,Married,30,High School,90500,management / self-employed / highly qualified employee / officer,Big city,0
+1125,Male,Single,37,High School,102733,Skilled Employee/Official,Mid-sized city,1
+1126,Male,Single,42,High School,135493,Skilled Employee/Official,Big city,1
+1127,Male,Married,62,University,169044,Skilled Employee/Official,Mid-sized city,2
+1128,Male,Single,49,High School,178549,Skilled Employee/Official,Big city,1
+1129,Male,Single,52,High School,159716,Skilled Employee/Official,Big city,1
+1130,Male,Married,36,High School,170118,management / self-employed / highly qualified employee / officer,Mid-sized city,1
+1131,Male,Single,49,High School,143886,Unemployed/Unskilled,Mid-sized city,1
+1132,Male,Single,42,High School,130164,management / self-employed / highly qualified employee / officer,Big city,1
+1133,Male,Single,38,High School,114476,Skilled Employee/Official,Mid-sized city,1
+1134,Male,Single,50,High School,126143,Skilled Employee/Official,Mid-sized city,1
+1135,Male,Married,34,High School,129654,management / self-employed / highly qualified employee / officer,Big city,0
+1136,Male,Single,43,High School,123202,Skilled Employee/Official,Big city,1
+1137,Male,Single,40,High School,160524,Skilled Employee/Official,Mid-sized city,1
+1138,Male,Single,56,University,126906,Skilled Employee/Official,Mid-sized city,2
+1139,Male,Single,41,High School,143994,management / self-employed / highly qualified employee / officer,Big city,1
+1140,Male,Married,30,High School,123517,management / self-employed / highly qualified employee / officer,Big city,0
+1141,Male,Married,28,High School,129055,Skilled Employee/Official,Big city,0
+1142,Male,Single,64,University,136312,Unemployed/Unskilled,Big city,2
+1144,Male,Single,37,High School,152401,management / self-employed / highly qualified employee / officer,Mid-sized city,1
+1145,Male,Single,31,High School,157453,management / self-employed / highly qualified employee / officer,Mid-sized city,1
+1146,Male,Single,32,High School,142870,management / self-employed / highly qualified employee / officer,Big city,1
+1147,Male,Married,52,University,137231,Skilled Employee/Official,Big city,2
+1148,Male,Married,31,High School,104406,Skilled Employee/Official,Mid-sized city,0
+1149,Male,Single,36,High School,145385,management / self-employed / highly qualified employee / officer,Mid-sized city,1
+1150,Male,Married,32,High School,146519,management / self-employed / highly qualified employee / officer,Mid-sized city,0
+1151,Male,Single,51,High School,126227,Skilled Employee/Official,Big city,1
+1152,Male,Single,47,High School,112227,management / self-employed / highly qualified employee / officer,Mid-sized city,1
+1153,Male,Married,34,High School,110145,Skilled Employee/Official,Big city,0
+1154,Male,Married,46,University,149419,Skilled Employee/Official,Mid-sized city,2
+1155,Male,Married,42,High School,176646,Skilled Employee/Official,Mid-sized city,1
+1156,Male,Single,39,High School,91019,management / self-employed / highly qualified employee / officer,Mid-sized city,1
+1157,Male,Single,50,High School,169579,Skilled Employee/Official,Big city,1
+1158,Male,Single,42,High School,142305,Skilled Employee/Official,Big city,1
+1159,Male,Married,36,High School,130602,Skilled Employee/Official,Mid-sized city,0
+1160,Male,Married,18,High School,98992,Skilled Employee/Official,Mid-sized city,0
+1161,Male,Single,35,High School,181926,management / self-employed / highly qualified employee / officer,Big city,1
+1162,Male,Single,38,High School,152864,Skilled Employee/Official,Big city,1
+1163,Male,Single,39,High School,135837,management / self-employed / highly qualified employee / officer,Big city,1
+1164,Male,Married,24,High School,121757,Unemployed/Unskilled,Big city,0
+1165,Male,Single,41,High School,182274,Skilled Employee/Official,Mid-sized city,1
+1166,Male,Single,36,High School,149040,management / self-employed / highly qualified employee / officer,Big city,1
+1167,Male,Single,37,High School,154196,management / self-employed / highly qualified employee / officer,Big city,1
+1168,Male,Married,45,University,135332,Skilled Employee/Official,Mid-sized city,2
+1169,Male,Single,41,High School,134200,management / self-employed / highly qualified employee / officer,Big city,1
+1170,Male,Single,36,High School,177171,management / self-employed / highly qualified employee / officer,Big city,1
+1171,Male,Single,38,High School,115964,Unemployed/Unskilled,Big city,1
+1172,Male,Single,38,High School,136871,Unemployed/Unskilled,Mid-sized city,1
+1173,Male,Married,53,University,159559,management / self-employed / highly qualified employee / officer,Big city,2
+1174,Male,Single,35,High School,113878,Skilled Employee/Official,Big city,1
+1175,Male,Single,48,High School,171203,management / self-employed / highly qualified employee / officer,Big city,1
+1176,Male,Single,36,High School,102180,Skilled Employee/Official,Big city,1
+1177,Male,Married,22,High School,116844,management / self-employed / highly qualified employee / officer,Mid-sized city,0
+1178,Male,Single,35,High School,139844,management / self-employed / highly qualified employee / officer,Big city,1
+1179,Male,Single,42,High School,156431,Unemployed/Unskilled,Mid-sized city,1
+1180,Male,Single,39,High School,116137,Unemployed/Unskilled,Mid-sized city,1
+1181,Male,Single,31,High School,143081,Skilled Employee/Official,Mid-sized city,1
+1182,Male,Single,33,High School,155870,management / self-employed / highly qualified employee / officer,Big city,1
+1183,Male,Married,31,High School,106924,Unemployed/Unskilled,Mid-sized city,3
+1184,Male,Single,42,High School,102133,Skilled Employee/Official,Mid-sized city,1
+1185,Male,Single,61,University,145227,Unemployed/Unskilled,Mid-sized city,2
+1186,Male,Single,38,High School,159500,management / self-employed / highly qualified employee / officer,Big city,1
+1187,Male,Single,33,High School,98498,Unemployed/Unskilled,Mid-sized city,3
+1188,Male,Single,48,High School,159714,Skilled Employee/Official,Big city,1
+1189,Male,Single,31,High School,121852,Unemployed/Unskilled,Mid-sized city,1
+1190,Male,Single,52,High School,141271,management / self-employed / highly qualified employee / officer,Big city,1
+1191,Male,Married,27,High School,123213,Skilled Employee/Official,Big city,0
+1192,Male,Single,40,High School,143723,management / self-employed / highly qualified employee / officer,Mid-sized city,1
+1193,Male,Single,34,High School,112538,Unemployed/Unskilled,Mid-sized city,1
+1194,Male,Married,26,High School,97932,management / self-employed / highly qualified employee / officer,Big city,0
+1195,Male,Single,30,High School,154003,Unemployed/Unskilled,Mid-sized city,1
+1196,Male,Single,53,High School,177179,Skilled Employee/Official,Mid-sized city,1
+1197,Male,Single,45,High School,128052,Skilled Employee/Official,Big city,1
+1198,Male,Single,32,High School,114617,management / self-employed / highly qualified employee / officer,Mid-sized city,1
+1199,Male,Single,35,High School,182822,management / self-employed / highly qualified employee / officer,Big city,1
+1200,Male,Married,26,High School,177215,Skilled Employee/Official,Big city,0
+1201,Male,Single,30,High School,110929,Skilled Employee/Official,Mid-sized city,1
+1202,Male,Single,37,High School,111821,Skilled Employee/Official,Mid-sized city,1
+1203,Male,Single,32,High School,97306,management / self-employed / highly qualified employee / officer,Mid-sized city,1
+1204,Male,Married,40,High School,157231,Skilled Employee/Official,Mid-sized city,1
+1205,Male,Single,44,High School,126906,Unemployed/Unskilled,Big city,1
+1206,Male,Single,43,High School,133243,Skilled Employee/Official,Big city,1
+1207,Male,Single,51,High School,112250,Skilled Employee/Official,Mid-sized city,1
+1208,Male,Single,37,High School,104349,Unemployed/Unskilled,Mid-sized city,3
+1209,Male,Single,33,High School,151421,Skilled Employee/Official,Big city,1
+1210,Male,Married,32,High School,178081,management / self-employed / highly qualified employee / officer,Mid-sized city,0
+1211,Male,Single,35,High School,110181,Unemployed/Unskilled,Big city,1
+1212,Male,Married,30,High School,113012,Skilled Employee/Official,Mid-sized city,0
+1213,Male,Married,35,High School,154585,management / self-employed / highly qualified employee / officer,Big city,1
+1214,Male,Single,40,High School,144704,management / self-employed / highly qualified employee / officer,Mid-sized city,1
+1215,Male,Single,37,High School,141632,management / self-employed / highly qualified employee / officer,Big city,1
+1216,Male,Single,37,High School,105055,Skilled Employee/Official,Big city,1
+1217,Male,Single,37,High School,124597,Skilled Employee/Official,Big city,1
+1218,Male,Single,53,High School,160164,management / self-employed / highly qualified employee / officer,Mid-sized city,1
+1219,Male,Single,34,High School,151754,management / self-employed / highly qualified employee / officer,Mid-sized city,1
+1220,Male,Single,51,High School,155551,Skilled Employee/Official,Mid-sized city,1
+1221,Male,Married,26,High School,94986,Skilled Employee/Official,Big city,0
+1222,Male,Single,34,High School,175800,Unemployed/Unskilled,Mid-sized city,1
+1223,Male,Single,51,High School,126246,management / self-employed / highly qualified employee / officer,Mid-sized city,1
+1224,Male,Single,33,High School,116261,Skilled Employee/Official,Big city,1
+1225,Male,Married,32,High School,117796,Unemployed/Unskilled,Big city,0
+1226,Male,Single,39,High School,115363,Skilled Employee/Official,Mid-sized city,1
+1227,Male,Single,53,High School,169076,Skilled Employee/Official,Mid-sized city,1
+1228,Male,Single,34,High School,97474,management / self-employed / highly qualified employee / officer,Big city,1
+1229,Male,Single,37,High School,140341,Skilled Employee/Official,Big city,1
+1230,Male,Married,28,High School,114503,Skilled Employee/Official,Mid-sized city,0
+1231,Male,Married,25,High School,102937,Skilled Employee/Official,Big city,0
+1232,Male,Single,36,High School,151781,management / self-employed / highly qualified employee / officer,Big city,1
+1233,Male,Married,36,High School,123133,Skilled Employee/Official,Big city,0
+1234,Male,Single,35,High School,118879,Skilled Employee/Official,Big city,1
+1235,Male,Married,21,High School,158683,Skilled Employee/Official,Mid-sized city,0
+1236,Male,Married,29,High School,107514,Skilled Employee/Official,Big city,0
+1237,Male,Single,60,University,193879,Skilled Employee/Official,Mid-sized city,2
+1238,Male,Single,45,High School,135043,Skilled Employee/Official,Mid-sized city,1
+1239,Male,Married,56,University,108559,Unemployed/Unskilled,Mid-sized city,2
+1240,Male,Married,30,High School,121038,Skilled Employee/Official,Big city,0
+1241,Male,Single,52,High School,151947,management / self-employed / highly qualified employee / officer,Big city,1
+1242,Male,Married,26,High School,118820,Skilled Employee/Official,Mid-sized city,0
+1243,Male,Single,43,High School,121517,Skilled Employee/Official,Mid-sized city,1
+1244,Male,Single,34,High School,113572,Skilled Employee/Official,Mid-sized city,1
+1245,Male,Married,22,High School,131170,Skilled Employee/Official,Big city,0
+1246,Male,Single,42,High School,92430,Unemployed/Unskilled,Mid-sized city,3
+1247,Male,Single,38,High School,124554,Unemployed/Unskilled,Mid-sized city,1
+1248,Male,Married,29,High School,115988,Skilled Employee/Official,Big city,0
+1249,Male,Single,44,High School,107301,Skilled Employee/Official,Big city,1
+1250,Male,Married,29,High School,103767,management / self-employed / highly qualified employee / officer,Mid-sized city,0
+1251,Male,Single,44,High School,141493,Skilled Employee/Official,Big city,1
+1252,Male,Single,38,High School,154339,Skilled Employee/Official,Big city,1
+1253,Male,Married,26,High School,112369,Unemployed/Unskilled,Mid-sized city,0
+1254,Male,Single,53,High School,158193,Skilled Employee/Official,Mid-sized city,1
+1255,Male,Single,43,High School,143734,Skilled Employee/Official,Mid-sized city,1
+1256,Male,Single,33,High School,121890,Skilled Employee/Official,Mid-sized city,1
+1257,Male,Single,52,High School,127609,Unemployed/Unskilled,Mid-sized city,1
+1258,Male,Married,26,High School,94650,Unemployed/Unskilled,Big city,0
+1259,Male,Single,38,High School,175504,management / self-employed / highly qualified employee / officer,Mid-sized city,1
+1260,Male,Single,47,High School,165495,Skilled Employee/Official,Big city,1
+1261,Male,Married,26,High School,120389,Skilled Employee/Official,Mid-sized city,0
+1262,Male,Married,36,High School,165340,Skilled Employee/Official,Mid-sized city,0
+1263,Male,Single,36,High School,119804,Skilled Employee/Official,Mid-sized city,1
+1264,Male,Single,57,University,154344,management / self-employed / highly qualified employee / officer,Mid-sized city,2
+1265,Male,Married,31,High School,106266,management / self-employed / highly qualified employee / officer,Big city,0
+1266,Male,Single,45,High School,136129,Skilled Employee/Official,Mid-sized city,1
+1267,Male,Single,40,High School,151914,management / self-employed / highly qualified employee / officer,Mid-sized city,1
+1268,Male,Married,21,High School,121473,Skilled Employee/Official,Mid-sized city,0
+1269,Male,Single,46,High School,127147,Skilled Employee/Official,Big city,1
+1270,Male,Single,35,High School,125387,Skilled Employee/Official,Big city,1
+1271,Male,Married,31,High School,139490,Unemployed/Unskilled,Big city,0
+1272,Male,Single,51,High School,124990,Skilled Employee/Official,Big city,1
+1273,Male,Married,21,High School,101471,management / self-employed / highly qualified employee / officer,Mid-sized city,0
+1274,Male,Single,48,High School,155708,Skilled Employee/Official,Mid-sized city,1
+1275,Male,Single,48,High School,142345,Skilled Employee/Official,Big city,1
+1277,Male,Married,45,University,116484,Skilled Employee/Official,Big city,2
+1278,Male,Single,35,High School,150237,management / self-employed / highly qualified employee / officer,Big city,1
+1279,Male,Married,22,High School,100273,Skilled Employee/Official,Big city,0
+1280,Male,Single,44,High School,122292,Unemployed/Unskilled,Mid-sized city,1
+1281,Male,Single,52,High School,159216,Skilled Employee/Official,Mid-sized city,1
+1282,Male,Single,48,High School,130082,Skilled Employee/Official,Big city,1
+1283,Male,Single,33,High School,139547,Skilled Employee/Official,Big city,1
+1284,Male,Married,35,High School,122895,Skilled Employee/Official,Mid-sized city,0
+1285,Male,Married,64,University,154549,Skilled Employee/Official,Mid-sized city,2
+1286,Male,Single,58,High School,149315,Unemployed/Unskilled,Big city,1
+1287,Male,Married,24,High School,118101,Unemployed/Unskilled,Big city,0
+1288,Male,Single,40,High School,115831,Unemployed/Unskilled,Big city,1
+1289,Male,Single,49,High School,118571,management / self-employed / highly qualified employee / officer,Big city,1
+1290,Male,Single,31,High School,138906,Skilled Employee/Official,Big city,1
+1291,Male,Single,46,High School,98520,Skilled Employee/Official,Big city,1
+1292,Male,Single,46,High School,106576,Skilled Employee/Official,Mid-sized city,1
+1293,Male,Single,49,High School,121592,Skilled Employee/Official,Mid-sized city,1
+1294,Male,Single,29,High School,135605,Unemployed/Unskilled,Mid-sized city,1
+1295,Male,Single,37,High School,114552,Skilled Employee/Official,Big city,1
+1296,Male,Single,33,High School,151339,management / self-employed / highly qualified employee / officer,Mid-sized city,1
+1298,Male,Single,35,High School,118288,Skilled Employee/Official,Big city,1
+1299,Male,Single,40,High School,109992,Skilled Employee/Official,Big city,1
+1300,Female,Single,27,High School,90654,Unemployed/Unskilled,Small City,3
+1301,Female,Single,61,University,113290,Unemployed/Unskilled,Small City,2
+1302,Female,Married,29,High School,100093,Skilled Employee/Official,Mid-sized city,0
+1303,Female,Single,33,High School,109489,Skilled Employee/Official,Small City,3
+1304,Female,Single,56,University,139427,Unemployed/Unskilled,Small City,2
+1305,Female,Married,27,High School,123411,Skilled Employee/Official,Mid-sized city,0
+1306,Female,Married,22,High School,137925,Skilled Employee/Official,Small City,0
+1307,Female,Married,19,High School,99119,Skilled Employee/Official,Small City,0
+1308,Female,Married,28,High School,91084,Skilled Employee/Official,Mid-sized city,0
+1309,Female,Married,24,High School,110137,Skilled Employee/Official,Mid-sized city,0
+1310,Female,Married,27,High School,67041,Unemployed/Unskilled,Small City,3
+1311,Female,Married,30,High School,127299,Skilled Employee/Official,Mid-sized city,0
+1312,Female,Single,26,High School,84555,Unemployed/Unskilled,Small City,3
+1313,Female,Married,26,High School,123895,Skilled Employee/Official,Small City,0
+1314,Female,Married,23,High School,94324,Skilled Employee/Official,Mid-sized city,0
+1315,Female,Married,28,High School,96062,Skilled Employee/Official,Small City,0
+1317,Female,Married,27,High School,107485,Skilled Employee/Official,Mid-sized city,0
+1318,Female,Married,32,High School,98573,Skilled Employee/Official,Small City,0
+1319,Female,Single,24,High School,107462,Unemployed/Unskilled,Small City,3
+1320,Female,Married,28,High School,115809,Skilled Employee/Official,Mid-sized city,0
+1321,Female,Single,48,University,118749,Unemployed/Unskilled,Small City,2
+1322,Female,Married,32,High School,139112,Skilled Employee/Official,Mid-sized city,0
+1323,Female,Married,25,High School,94075,Skilled Employee/Official,Small City,0
+1324,Female,Married,57,University,62002,Unemployed/Unskilled,Small City,2
+1325,Female,Married,28,High School,127262,Skilled Employee/Official,Small City,0
+1326,Female,Married,24,High School,122846,Skilled Employee/Official,Mid-sized city,0
+1327,Female,Married,25,High School,61907,Unemployed/Unskilled,Small City,3
+1328,Female,Single,31,High School,89287,Unemployed/Unskilled,Small City,3
+1329,Female,Single,33,High School,103696,Skilled Employee/Official,Mid-sized city,0
+1330,Female,Married,50,University,147603,Skilled Employee/Official,Small City,2
+1331,Female,Married,58,University,139229,Unemployed/Unskilled,Mid-sized city,2
+1332,Female,Married,27,High School,107932,Unemployed/Unskilled,Small City,3
+1333,Female,Married,48,University,116235,Unemployed/Unskilled,Small City,2
+1334,Female,Married,22,High School,85974,Unemployed/Unskilled,Small City,3
+1335,Female,Married,40,High School,124001,Unemployed/Unskilled,Small City,3
+1336,Female,Married,32,High School,121428,Skilled Employee/Official,Small City,0
+1337,Female,Single,25,High School,93233,Unemployed/Unskilled,Small City,3
+1338,Female,Married,27,High School,67965,Unemployed/Unskilled,Small City,3
+1339,Female,Married,27,High School,88001,Unemployed/Unskilled,Small City,3
+1340,Female,Married,23,High School,129112,Skilled Employee/Official,Small City,0
+1341,Female,Married,32,High School,109324,Skilled Employee/Official,Mid-sized city,0
+1342,Female,Married,25,High School,112785,Skilled Employee/Official,Mid-sized city,0
+1343,Female,Married,46,University,136735,Unemployed/Unskilled,Small City,2
+1344,Female,Married,21,High School,107779,Skilled Employee/Official,Mid-sized city,0
+1345,Female,Married,29,High School,103526,Skilled Employee/Official,Small City,0
+1346,Female,Married,31,High School,93171,Unemployed/Unskilled,Small City,3
+1347,Female,Single,26,High School,106559,Unemployed/Unskilled,Small City,3
+1348,Female,Married,23,High School,112728,Skilled Employee/Official,Mid-sized city,0
+1349,Female,Single,38,High School,102855,Skilled Employee/Official,Mid-sized city,1
+1350,Female,Single,35,High School,85381,Unemployed/Unskilled,Small City,3
+1351,Female,Married,27,High School,100762,Skilled Employee/Official,Mid-sized city,0
+1352,Female,Married,22,High School,131445,Skilled Employee/Official,Mid-sized city,0
+1353,Female,Married,52,University,123194,Skilled Employee/Official,Small City,2
+1354,Female,Married,19,High School,99519,Skilled Employee/Official,Mid-sized city,0
+1355,Female,Married,23,High School,112853,Skilled Employee/Official,Small City,0
+1356,Female,Single,42,High School,110509,Skilled Employee/Official,Small City,3
+1357,Female,Married,27,High School,106446,Skilled Employee/Official,Mid-sized city,0
+1358,Female,Married,39,University,89665,Unemployed/Unskilled,Small City,2
+1359,Female,Married,50,University,128233,Skilled Employee/Official,Mid-sized city,2
+1360,Female,Married,36,High School,133615,Skilled Employee/Official,Small City,0
+1361,Female,Married,25,High School,115833,Skilled Employee/Official,Mid-sized city,0
+1362,Female,Married,27,High School,65560,Unemployed/Unskilled,Small City,3
+1363,Female,Married,30,High School,118642,Skilled Employee/Official,Small City,0
+1364,Female,Single,22,High School,63635,Unemployed/Unskilled,Small City,3
+1365,Female,Married,27,High School,122649,Skilled Employee/Official,Mid-sized city,0
+1366,Female,Single,31,High School,143321,management / self-employed / highly qualified employee / officer,Mid-sized city,1
+1367,Female,Married,29,High School,99556,Skilled Employee/Official,Small City,0
+1369,Female,Single,33,High School,71935,Unemployed/Unskilled,Small City,3
+1370,Female,Married,26,High School,114977,Skilled Employee/Official,Small City,0
+1371,Female,Married,36,High School,147691,Skilled Employee/Official,Mid-sized city,0
+1372,Female,Married,26,High School,54296,Unemployed/Unskilled,Small City,3
+1373,Female,Married,39,High School,80014,Unemployed/Unskilled,Small City,3
+1374,Female,Married,44,University,77887,Unemployed/Unskilled,Small City,2
+1375,Female,Married,46,University,98517,Unemployed/Unskilled,Small City,2
+1376,Female,Married,31,High School,103012,Unemployed/Unskilled,Small City,3
+1377,Female,Single,26,High School,121377,Skilled Employee/Official,Small City,3
+1378,Female,Married,22,High School,91359,Skilled Employee/Official,Mid-sized city,0
+1379,Female,Single,48,University,104833,Unemployed/Unskilled,Small City,2
+1380,Female,Married,27,High School,101209,Skilled Employee/Official,Small City,0
+1381,Female,Single,30,High School,58207,Unemployed/Unskilled,Small City,3
+1382,Female,Married,27,High School,116708,Skilled Employee/Official,Mid-sized city,0
+1383,Female,Married,36,High School,107471,Skilled Employee/Official,Mid-sized city,0
+1384,Female,Married,31,High School,128495,Skilled Employee/Official,Small City,0
+1385,Female,Single,21,High School,124468,Skilled Employee/Official,Small City,0
+1386,Female,Married,26,High School,106922,Skilled Employee/Official,Mid-sized city,0
+1387,Female,Single,24,High School,104291,Skilled Employee/Official,Small City,3
+1388,Female,Married,29,High School,98204,Skilled Employee/Official,Small City,0
+1389,Female,Married,32,High School,127071,Skilled Employee/Official,Small City,0
+1390,Female,Married,45,University,85115,Unemployed/Unskilled,Small City,2
+1391,Female,Married,58,University,104013,Unemployed/Unskilled,Small City,2
+1392,Female,Married,25,High School,89863,Skilled Employee/Official,Small City,0
+1394,Female,Married,53,University,107861,Unemployed/Unskilled,Small City,2
+1395,Female,Married,24,High School,123994,Skilled Employee/Official,Small City,0
+1396,Female,Single,20,High School,91270,Unemployed/Unskilled,Small City,3
+1398,Female,Married,31,High School,118594,Skilled Employee/Official,Mid-sized city,0
+1399,Female,Married,27,High School,40606,Unemployed/Unskilled,Small City,3
+1400,Female,Married,36,High School,129304,Unemployed/Unskilled,Small City,3
+1401,Female,Married,25,High School,113118,Skilled Employee/Official,Small City,0
+1402,Female,Single,41,High School,133131,Skilled Employee/Official,Small City,1
+1403,Female,Married,30,High School,106876,Skilled Employee/Official,Mid-sized city,0
+1404,Female,Married,32,High School,130870,Skilled Employee/Official,Mid-sized city,0
+1405,Female,Married,29,High School,125621,Unemployed/Unskilled,Small City,3
+1406,Female,Single,27,High School,78923,Unemployed/Unskilled,Small City,3
+1407,Female,Married,32,High School,123983,Skilled Employee/Official,Small City,0
+1408,Female,Married,25,High School,75184,Unemployed/Unskilled,Small City,3
+1409,Female,Single,24,High School,109693,Skilled Employee/Official,Small City,3
+1410,Female,Married,63,University,86273,Unemployed/Unskilled,Small City,2
+1411,Female,Single,42,University,113190,Unemployed/Unskilled,Small City,2
+1412,Female,Married,22,High School,109274,Unemployed/Unskilled,Small City,3
+1413,Female,Married,46,University,143489,Skilled Employee/Official,Mid-sized city,2
+1414,Female,Married,24,High School,99570,Skilled Employee/Official,Mid-sized city,0
+1415,Female,Single,30,High School,139468,Skilled Employee/Official,Mid-sized city,0
+1416,Female,Married,44,University,108627,Unemployed/Unskilled,Small City,2
+1417,Female,Single,25,High School,106355,Skilled Employee/Official,Small City,3
+1418,Female,Married,27,High School,96952,Skilled Employee/Official,Small City,0
+1419,Female,Married,27,High School,141502,Skilled Employee/Official,Mid-sized city,0
+1420,Female,Married,34,High School,110420,Skilled Employee/Official,Mid-sized city,0
+1421,Female,Married,18,High School,97741,Skilled Employee/Official,Mid-sized city,0
+1422,Female,Married,25,High School,99583,Skilled Employee/Official,Mid-sized city,0
+1423,Female,Married,21,High School,63698,Unemployed/Unskilled,Small City,3
+1424,Female,Married,26,High School,116688,Skilled Employee/Official,Mid-sized city,0
+1425,Female,Married,27,High School,131542,management / self-employed / highly qualified employee / officer,Mid-sized city,0
+1426,Female,Single,25,High School,136055,Skilled Employee/Official,Mid-sized city,0
+1427,Female,Married,30,High School,100195,Skilled Employee/Official,Mid-sized city,0
+1429,Female,Married,25,High School,104062,Skilled Employee/Official,Mid-sized city,0
+1430,Female,Married,43,University,137689,Skilled Employee/Official,Small City,2
+1431,Female,Married,35,High School,137705,Skilled Employee/Official,Mid-sized city,0
+1433,Female,Single,35,High School,68731,Unemployed/Unskilled,Small City,3
+1434,Female,Married,26,High School,105726,Skilled Employee/Official,Small City,0
+1435,Female,Single,29,High School,78078,Unemployed/Unskilled,Small City,3
+1436,Female,Married,22,High School,110835,Unemployed/Unskilled,Small City,3
+1437,Female,Single,26,High School,115531,Skilled Employee/Official,Mid-sized city,0
+1438,Female,Married,36,High School,92723,Unemployed/Unskilled,Small City,3
+1439,Female,Married,35,High School,107509,Skilled Employee/Official,Mid-sized city,0
+1440,Female,Married,28,High School,116763,Skilled Employee/Official,Mid-sized city,0
+1441,Female,Married,24,High School,100733,Skilled Employee/Official,Small City,0
+1442,Female,Married,34,High School,92652,Unemployed/Unskilled,Small City,3
+1443,Female,Married,25,High School,106987,Skilled Employee/Official,Small City,0
+1444,Female,Married,54,University,51882,Unemployed/Unskilled,Small City,2
+1445,Female,Single,46,University,104751,Unemployed/Unskilled,Small City,2
+1446,Female,Married,42,High School,50947,Unemployed/Unskilled,Small City,3
+1447,Female,Single,45,University,126986,Unemployed/Unskilled,Small City,2
+1448,Female,Single,48,University,110223,Unemployed/Unskilled,Small City,2
+1449,Female,Single,21,High School,100591,Unemployed/Unskilled,Small City,3
+1450,Female,Married,31,High School,123257,Skilled Employee/Official,Small City,0
+1451,Female,Single,35,High School,137736,Skilled Employee/Official,Mid-sized city,1
+1452,Female,Married,36,High School,110221,Skilled Employee/Official,Mid-sized city,0
+1453,Female,Married,32,High School,99703,Unemployed/Unskilled,Small City,3
+1454,Female,Married,26,High School,106667,Unemployed/Unskilled,Small City,3
+1455,Female,Married,34,High School,143319,Skilled Employee/Official,Small City,0
+1457,Female,Married,50,University,93390,Unemployed/Unskilled,Small City,2
+1458,Female,Married,39,High School,97577,Skilled Employee/Official,Small City,0
+1459,Female,Single,52,University,124196,Unemployed/Unskilled,Small City,2
+1460,Female,Married,36,High School,81136,Unemployed/Unskilled,Small City,3
+1461,Female,Married,29,High School,119439,Skilled Employee/Official,Small City,0
+1462,Female,Married,36,High School,145231,Skilled Employee/Official,Mid-sized city,0
+1463,Female,Married,36,High School,85623,Unemployed/Unskilled,Small City,3
+1464,Female,Married,27,High School,145373,Skilled Employee/Official,Mid-sized city,0
+1465,Female,Married,36,High School,135896,management / self-employed / highly qualified employee / officer,Mid-sized city,0
+1466,Female,Married,26,High School,106470,Skilled Employee/Official,Mid-sized city,0
+1467,Female,Single,57,University,113334,Skilled Employee/Official,Mid-sized city,2
+1468,Female,Single,27,High School,100560,Unemployed/Unskilled,Small City,3
+1469,Female,Married,58,University,108442,Unemployed/Unskilled,Small City,2
+1470,Female,Married,27,High School,64472,Unemployed/Unskilled,Small City,3
+1471,Female,Married,49,University,120207,Skilled Employee/Official,Small City,2
+1472,Female,Married,43,University,101680,Skilled Employee/Official,Small City,2
+1473,Female,Single,45,University,92342,Unemployed/Unskilled,Small City,3
+1474,Female,Married,27,High School,98611,Unemployed/Unskilled,Small City,3
+1475,Female,Married,34,High School,97613,Skilled Employee/Official,Mid-sized city,0
+1476,Female,Married,21,High School,82298,Unemployed/Unskilled,Small City,3
+1477,Female,Married,54,University,125302,Skilled Employee/Official,Mid-sized city,2
+1478,Female,Married,43,University,108725,Unemployed/Unskilled,Small City,2
+1479,Female,Single,25,High School,85569,Unemployed/Unskilled,Small City,3
+1480,Female,Single,57,University,110372,Unemployed/Unskilled,Small City,2
+1481,Female,Married,26,High School,100511,Skilled Employee/Official,Mid-sized city,0
+1482,Female,Single,30,High School,110455,Skilled Employee/Official,Small City,3
+1483,Female,Single,58,University,141993,Unemployed/Unskilled,Small City,2
+1484,Female,Married,25,High School,121789,Skilled Employee/Official,Mid-sized city,0
+1485,Female,Married,23,High School,138967,Skilled Employee/Official,Small City,0
+1486,Female,Single,22,High School,105230,Skilled Employee/Official,Small City,3
+1487,Female,Married,21,High School,90656,Skilled Employee/Official,Mid-sized city,0
+1488,Female,Married,20,High School,115445,Skilled Employee/Official,Mid-sized city,0
+1489,Female,Married,22,High School,59955,Unemployed/Unskilled,Small City,3
+1490,Female,Single,27,High School,126268,Skilled Employee/Official,Mid-sized city,0
+1491,Female,Single,24,High School,80830,Unemployed/Unskilled,Small City,3
+1492,Female,Married,23,High School,123625,Skilled Employee/Official,Small City,0
+1493,Female,Married,26,High School,102543,Skilled Employee/Official,Mid-sized city,0
+1494,Female,Single,28,High School,101948,Skilled Employee/Official,Small City,3
+1495,Female,Married,64,Graduate School,142280,Skilled Employee/Official,Small City,2
+1496,Female,Married,26,High School,105434,Skilled Employee/Official,Mid-sized city,0
+1497,Female,Married,31,High School,106115,Skilled Employee/Official,Small City,0
+1498,Female,Single,28,High School,111057,Unemployed/Unskilled,Small City,3
+1499,Female,Married,25,High School,117758,Skilled Employee/Official,Mid-sized city,0
+1500,Female,Single,49,University,118396,Unemployed/Unskilled,Small City,2
+1501,Female,Married,33,High School,136260,Skilled Employee/Official,Mid-sized city,0
+1502,Female,Single,27,High School,97192,Skilled Employee/Official,Small City,3
+1503,Female,Married,59,University,62101,Unemployed/Unskilled,Small City,2
+1504,Female,Married,28,High School,123497,Skilled Employee/Official,Small City,0
+1505,Female,Married,24,High School,120326,Skilled Employee/Official,Mid-sized city,0
+1506,Female,Married,26,High School,66645,Unemployed/Unskilled,Small City,3
+1507,Female,Single,33,High School,83429,Unemployed/Unskilled,Small City,3
+1508,Female,Single,37,High School,107539,Skilled Employee/Official,Mid-sized city,1
+1509,Female,Married,46,University,153880,Skilled Employee/Official,Small City,2
+1510,Female,Married,62,University,140178,Unemployed/Unskilled,Mid-sized city,2
+1511,Female,Single,26,High School,100402,Unemployed/Unskilled,Small City,3
+1512,Female,Married,49,University,122158,Unemployed/Unskilled,Small City,2
+1513,Female,Married,25,High School,89331,Unemployed/Unskilled,Small City,3
+1514,Female,Married,37,High School,125359,Unemployed/Unskilled,Small City,3
+1515,Female,Single,31,High School,124110,Skilled Employee/Official,Small City,3
+1516,Female,Single,25,High School,93526,Unemployed/Unskilled,Small City,3
+1517,Female,Married,21,High School,70170,Unemployed/Unskilled,Small City,3
+1518,Female,Married,27,High School,82357,Unemployed/Unskilled,Small City,3
+1519,Female,Married,29,High School,126745,Skilled Employee/Official,Small City,0
+1520,Female,Married,30,High School,103326,Skilled Employee/Official,Mid-sized city,0
+1521,Female,Married,26,High School,116048,Skilled Employee/Official,Mid-sized city,0
+1522,Female,Married,40,University,137115,Unemployed/Unskilled,Small City,2
+1523,Female,Married,23,High School,105365,Skilled Employee/Official,Mid-sized city,0
+1524,Female,Married,31,High School,95911,Skilled Employee/Official,Small City,0
+1525,Female,Married,29,High School,88669,Unemployed/Unskilled,Small City,3
+1526,Female,Single,22,High School,103776,Unemployed/Unskilled,Small City,3
+1527,Female,Married,26,High School,108864,Skilled Employee/Official,Mid-sized city,0
+1528,Female,Single,39,High School,106037,Skilled Employee/Official,Mid-sized city,1
+1529,Female,Single,35,High School,84851,Unemployed/Unskilled,Small City,3
+1530,Female,Married,26,High School,95748,Skilled Employee/Official,Mid-sized city,0
+1531,Female,Married,28,High School,133616,Skilled Employee/Official,Mid-sized city,0
+1532,Female,Married,56,University,132752,Skilled Employee/Official,Small City,2
+1533,Female,Married,22,High School,95712,Skilled Employee/Official,Mid-sized city,0
+1534,Female,Married,26,High School,109063,Skilled Employee/Official,Small City,0
+1535,Female,Single,41,High School,113521,Skilled Employee/Official,Small City,3
+1536,Female,Married,29,High School,109380,Skilled Employee/Official,Mid-sized city,0
+1537,Female,Married,42,University,82558,Unemployed/Unskilled,Small City,2
+1538,Female,Married,50,University,124777,Skilled Employee/Official,Mid-sized city,2
+1539,Female,Married,33,High School,133542,Skilled Employee/Official,Small City,0
+1540,Female,Married,28,High School,116492,Skilled Employee/Official,Mid-sized city,0
+1541,Female,Married,27,High School,68834,Unemployed/Unskilled,Small City,3
+1542,Female,Married,27,High School,124023,Skilled Employee/Official,Small City,0
+1543,Female,Single,28,High School,63882,Unemployed/Unskilled,Small City,3
+1544,Female,Married,24,High School,122492,Skilled Employee/Official,Mid-sized city,0
+1545,Female,Single,28,High School,141453,management / self-employed / highly qualified employee / officer,Mid-sized city,1
+1546,Female,Married,32,High School,99327,Skilled Employee/Official,Small City,0
+1547,Female,Single,32,High School,45590,Unemployed/Unskilled,Small City,3
+1548,Female,Single,30,High School,71167,Unemployed/Unskilled,Small City,3
+1549,Female,Married,29,High School,111992,Skilled Employee/Official,Small City,0
+1550,Female,Married,37,High School,145140,Skilled Employee/Official,Mid-sized city,0
+1551,Female,Married,24,High School,49672,Unemployed/Unskilled,Small City,3
+1552,Female,Married,36,High School,75536,Unemployed/Unskilled,Small City,3
+1553,Female,Married,40,University,86720,Unemployed/Unskilled,Small City,2
+1554,Female,Married,51,University,97729,Unemployed/Unskilled,Small City,2
+1555,Female,Married,33,High School,106808,Unemployed/Unskilled,Small City,3
+1556,Female,Single,31,High School,117971,Skilled Employee/Official,Small City,3
+1557,Female,Married,29,High School,97731,Skilled Employee/Official,Mid-sized city,0
+1558,Female,Single,48,University,109196,Unemployed/Unskilled,Small City,2
+1559,Female,Married,25,High School,94905,Skilled Employee/Official,Small City,0
+1560,Female,Single,28,High School,57480,Unemployed/Unskilled,Small City,3
+1561,Female,Married,23,High School,109175,Skilled Employee/Official,Mid-sized city,0
+1562,Female,Married,32,High School,111174,Skilled Employee/Official,Mid-sized city,0
+1563,Female,Married,34,High School,127255,Skilled Employee/Official,Small City,0
+1564,Female,Single,23,High School,115499,Skilled Employee/Official,Small City,3
+1565,Female,Married,25,High School,109499,Skilled Employee/Official,Mid-sized city,0
+1566,Female,Single,25,High School,104696,Skilled Employee/Official,Small City,3
+1567,Female,Married,27,High School,104467,Skilled Employee/Official,Small City,0
+1568,Female,Married,29,High School,120157,Skilled Employee/Official,Small City,0
+1569,Female,Married,46,University,81200,Unemployed/Unskilled,Small City,2
+1570,Female,Married,61,University,97558,Unemployed/Unskilled,Small City,2
+1571,Female,Married,25,High School,95914,Skilled Employee/Official,Small City,0
+1573,Female,Married,49,University,101734,Unemployed/Unskilled,Small City,2
+1574,Female,Married,21,High School,126009,Skilled Employee/Official,Small City,0
+1575,Female,Single,19,High School,91232,Unemployed/Unskilled,Small City,3
+1577,Female,Married,31,High School,110040,Skilled Employee/Official,Mid-sized city,0
+1578,Female,Married,27,High School,38247,Unemployed/Unskilled,Small City,3
+1579,Female,Married,37,High School,129027,Unemployed/Unskilled,Small City,3
+1580,Female,Married,27,High School,115026,Skilled Employee/Official,Small City,0
+1581,Female,Single,36,High School,130323,Skilled Employee/Official,Small City,3
+1582,Female,Married,24,High School,103181,Skilled Employee/Official,Mid-sized city,0
+1583,Female,Married,31,High School,138307,Skilled Employee/Official,Mid-sized city,0
+1584,Female,Married,29,High School,122564,Unemployed/Unskilled,Small City,3
+1585,Female,Single,28,High School,82351,Unemployed/Unskilled,Small City,3
+1586,Female,Married,34,High School,125351,Skilled Employee/Official,Small City,0
+1587,Female,Married,26,High School,82940,Unemployed/Unskilled,Small City,3
+1588,Female,Single,21,High School,108029,Skilled Employee/Official,Small City,3
+1589,Female,Married,63,University,82734,Unemployed/Unskilled,Small City,2
+1590,Female,Single,38,University,116816,Unemployed/Unskilled,Small City,3
+1591,Female,Married,20,High School,113472,Unemployed/Unskilled,Small City,3
+1592,Female,Married,44,University,143343,Skilled Employee/Official,Mid-sized city,2
+1593,Female,Married,31,High School,104074,Skilled Employee/Official,Mid-sized city,0
+1594,Female,Single,33,High School,138525,Skilled Employee/Official,Mid-sized city,1
+1595,Female,Married,49,University,106960,Unemployed/Unskilled,Small City,2
+1596,Female,Single,26,High School,108323,Skilled Employee/Official,Small City,3
+1597,Female,Married,28,High School,95784,Skilled Employee/Official,Small City,0
+1598,Female,Married,30,High School,140673,Skilled Employee/Official,Mid-sized city,0
+1599,Female,Married,36,High School,104235,Skilled Employee/Official,Mid-sized city,0
+1600,Female,Married,27,High School,54041,Unemployed/Unskilled,Small City,3
+1601,Male,Single,23,other/unknown,107961,Unemployed/Unskilled,Small City,3
+1602,Male,Single,31,other/unknown,113757,Skilled Employee/Official,Small City,1
+1603,Female,Married,27,High School,94884,Skilled Employee/Official,Small City,0
+1604,Female,Married,25,High School,126041,Skilled Employee/Official,Small City,0
+1605,Female,Married,23,High School,64952,Unemployed/Unskilled,Small City,3
+1606,Male,Married,27,High School,66764,Unemployed/Unskilled,Small City,3
+1607,Female,Single,38,High School,67861,Unemployed/Unskilled,Small City,3
+1608,Male,Single,44,High School,113516,Unemployed/Unskilled,Small City,3
+1609,Female,Married,42,High School,46109,Unemployed/Unskilled,Small City,3
+1610,Female,Married,25,High School,103651,Unemployed/Unskilled,Small City,3
+1611,Male,Married,40,High School,75043,Unemployed/Unskilled,Small City,3
+1612,Female,Married,24,High School,116473,Unemployed/Unskilled,Small City,3
+1613,Female,Single,39,High School,96614,Unemployed/Unskilled,Small City,3
+1614,Male,Single,24,other/unknown,66447,Unemployed/Unskilled,Small City,3
+1615,Female,Single,50,High School,119068,Skilled Employee/Official,Small City,3
+1616,Female,Married,28,High School,122973,Unemployed/Unskilled,Small City,3
+1617,Female,Married,36,High School,81609,Unemployed/Unskilled,Small City,3
+1618,Male,Single,36,High School,105519,Skilled Employee/Official,Small City,1
+1619,Female,Married,40,High School,86649,Unemployed/Unskilled,Small City,3
+1620,Female,Single,31,other/unknown,76384,Unemployed/Unskilled,Small City,3
+1621,Male,Married,27,High School,67136,Unemployed/Unskilled,Small City,3
+1622,Female,Married,35,High School,93155,Unemployed/Unskilled,Small City,3
+1623,Male,Single,51,High School,124183,Unemployed/Unskilled,Small City,3
+1624,Female,Single,26,other/unknown,64860,Unemployed/Unskilled,Small City,3
+1625,Male,Single,33,High School,87232,Unemployed/Unskilled,Small City,3
+1626,Female,Married,27,High School,92304,Unemployed/Unskilled,Small City,3
+1627,Male,Single,38,High School,84254,Unemployed/Unskilled,Small City,3
+1628,Female,Single,30,other/unknown,106696,Skilled Employee/Official,Small City,3
+1629,Male,Single,28,other/unknown,113212,Skilled Employee/Official,Small City,1
+1630,Male,Single,23,other/unknown,71076,Unemployed/Unskilled,Small City,3
+1631,Female,Married,23,High School,114270,Unemployed/Unskilled,Small City,3
+1632,Female,Married,26,High School,125538,Skilled Employee/Official,Small City,0
+1633,Female,Married,21,High School,92442,Unemployed/Unskilled,Small City,3
+1634,Female,Single,36,High School,75297,Unemployed/Unskilled,Small City,3
+1635,Female,Married,24,High School,65707,Unemployed/Unskilled,Small City,3
+1636,Male,Single,41,High School,120387,Skilled Employee/Official,Small City,1
+1637,Male,Single,42,High School,120946,Skilled Employee/Official,Small City,1
+1638,Male,Single,27,other/unknown,73265,Unemployed/Unskilled,Small City,3
+1639,Male,Married,40,High School,77481,Unemployed/Unskilled,Small City,3
+1640,Female,Married,34,High School,91282,Unemployed/Unskilled,Small City,3
+1641,Male,Single,40,High School,104405,Unemployed/Unskilled,Small City,3
+1642,Male,Single,33,High School,99646,Skilled Employee/Official,Small City,1
+1643,Female,Single,49,High School,97791,Unemployed/Unskilled,Small City,3
+1644,Male,Single,28,other/unknown,81878,Unemployed/Unskilled,Small City,3
+1645,Female,Married,26,High School,107908,Skilled Employee/Official,Small City,0
+1646,Female,Single,40,High School,98608,Unemployed/Unskilled,Small City,3
+1647,Male,Single,47,High School,95228,Unemployed/Unskilled,Small City,3
+1648,Female,Married,41,High School,128163,Skilled Employee/Official,Small City,0
+1649,Female,Married,29,High School,94325,Unemployed/Unskilled,Small City,3
+1650,Female,Married,37,High School,90815,Unemployed/Unskilled,Small City,3
+1651,Male,Single,31,other/unknown,120719,Skilled Employee/Official,Small City,1
+1652,Male,Single,35,High School,110159,Skilled Employee/Official,Small City,1
+1653,Male,Single,35,High School,124490,Skilled Employee/Official,Small City,1
+1654,Female,Married,29,High School,75161,Unemployed/Unskilled,Small City,3
+1655,Female,Single,37,High School,127206,Skilled Employee/Official,Small City,3
+1656,Male,Single,37,High School,83660,Unemployed/Unskilled,Small City,3
+1657,Female,Married,26,High School,87400,Unemployed/Unskilled,Small City,3
+1658,Female,Married,28,High School,78942,Unemployed/Unskilled,Small City,3
+1659,Female,Married,23,High School,88452,Unemployed/Unskilled,Small City,3
+1660,Male,Single,38,High School,104128,Skilled Employee/Official,Small City,1
+1661,Female,Married,30,High School,100313,Skilled Employee/Official,Small City,0
+1662,Female,Single,45,High School,107387,Skilled Employee/Official,Small City,3
+1663,Male,Single,24,other/unknown,84355,Unemployed/Unskilled,Small City,3
+1664,Female,Single,35,High School,112723,Skilled Employee/Official,Small City,3
+1665,Female,Married,41,High School,115892,Skilled Employee/Official,Small City,0
+1666,Male,Married,30,High School,106597,Skilled Employee/Official,Small City,0
+1667,Female,Married,30,High School,121327,Skilled Employee/Official,Small City,0
+1668,Female,Married,26,High School,92559,Unemployed/Unskilled,Small City,3
+1669,Female,Married,25,High School,87537,Unemployed/Unskilled,Small City,3
+1670,Female,Married,23,High School,70569,Unemployed/Unskilled,Small City,3
+1671,Female,Married,27,High School,85294,Unemployed/Unskilled,Small City,3
+1672,Female,Single,26,other/unknown,70905,Unemployed/Unskilled,Small City,3
+1673,Male,Single,25,other/unknown,103716,Unemployed/Unskilled,Small City,3
+1674,Male,Married,27,High School,94947,Skilled Employee/Official,Small City,0
+1675,Female,Single,42,High School,80116,Unemployed/Unskilled,Small City,3
+1676,Male,Single,35,High School,86492,Unemployed/Unskilled,Small City,3
+1677,Female,Married,25,High School,88672,Unemployed/Unskilled,Small City,3
+1678,Female,Married,26,High School,82984,Unemployed/Unskilled,Small City,3
+1679,Male,Single,38,High School,128100,Skilled Employee/Official,Small City,1
+1680,Female,Single,28,other/unknown,72869,Unemployed/Unskilled,Small City,3
+1681,Male,Married,33,High School,112227,Skilled Employee/Official,Small City,0
+1682,Female,Single,40,High School,94674,Unemployed/Unskilled,Small City,3
+1683,Female,Married,23,High School,101003,Skilled Employee/Official,Small City,0
+1684,Female,Single,25,other/unknown,112924,Skilled Employee/Official,Small City,3
+1685,Female,Single,28,other/unknown,108645,Unemployed/Unskilled,Small City,3
+1686,Male,Single,41,High School,69415,Unemployed/Unskilled,Small City,3
+1687,Female,Single,50,High School,112204,Unemployed/Unskilled,Small City,3
+1688,Female,Married,23,High School,109700,Skilled Employee/Official,Small City,0
+1689,Female,Married,26,High School,104484,Skilled Employee/Official,Small City,0
+1690,Female,Married,22,High School,61239,Unemployed/Unskilled,Small City,3
+1691,Male,Single,37,High School,119602,Unemployed/Unskilled,Small City,3
+1692,Female,Single,38,High School,81014,Unemployed/Unskilled,Small City,3
+1693,Female,Married,22,High School,68165,Unemployed/Unskilled,Small City,3
+1694,Female,Single,30,other/unknown,88652,Unemployed/Unskilled,Small City,3
+1695,Male,Single,38,High School,75705,Unemployed/Unskilled,Small City,3
+1696,Female,Married,36,High School,104189,Skilled Employee/Official,Small City,0
+1697,Male,Single,41,High School,71603,Unemployed/Unskilled,Small City,3
+1698,Female,Married,29,High School,121914,Skilled Employee/Official,Small City,0
+1699,Female,Married,31,High School,106637,Skilled Employee/Official,Small City,0
+1700,Female,Single,31,other/unknown,99800,Skilled Employee/Official,Small City,3
+1701,Female,Single,21,other/unknown,67629,Unemployed/Unskilled,Small City,3
+1702,Male,Single,32,other/unknown,120354,Skilled Employee/Official,Small City,1
+1703,Female,Married,35,High School,122110,Skilled Employee/Official,Small City,0
+1704,Male,Single,29,other/unknown,89170,Unemployed/Unskilled,Small City,3
+1705,Female,Single,34,High School,109195,Skilled Employee/Official,Small City,3
+1706,Female,Single,38,High School,92392,Unemployed/Unskilled,Small City,3
+1707,Female,Married,33,High School,43805,Unemployed/Unskilled,Small City,3
+1708,Female,Married,28,High School,68389,Unemployed/Unskilled,Small City,3
+1709,Female,Married,28,High School,112521,Skilled Employee/Official,Small City,0
+1710,Male,Single,21,other/unknown,59255,Unemployed/Unskilled,Small City,3
+1711,Female,Married,29,High School,98612,Unemployed/Unskilled,Small City,3
+1712,Female,Married,26,High School,70649,Unemployed/Unskilled,Small City,3
+1713,Female,Single,40,High School,95228,Unemployed/Unskilled,Small City,3
+1714,Female,Single,25,other/unknown,46865,Unemployed/Unskilled,Small City,3
+1715,Male,Married,20,High School,101688,Skilled Employee/Official,Small City,0
+1716,Female,Married,23,High School,62618,Unemployed/Unskilled,Small City,3
+1717,Female,Single,27,other/unknown,102531,Skilled Employee/Official,Small City,3
+1718,Female,Single,36,High School,100737,Skilled Employee/Official,Small City,3
+1719,Female,Married,25,High School,107321,Skilled Employee/Official,Small City,0
+1720,Female,Married,25,High School,112879,Unemployed/Unskilled,Small City,3
+1721,Female,Married,34,High School,125372,Unemployed/Unskilled,Small City,3
+1722,Female,Single,24,other/unknown,69419,Unemployed/Unskilled,Small City,3
+1723,Female,Single,36,High School,124759,Skilled Employee/Official,Small City,3
+1724,Female,Single,40,High School,79076,Unemployed/Unskilled,Small City,3
+1725,Male,Single,39,High School,84779,Unemployed/Unskilled,Small City,3
+1726,Female,Single,42,High School,77393,Unemployed/Unskilled,Small City,3
+1727,Male,Single,35,High School,113187,Unemployed/Unskilled,Small City,3
+1728,Female,Married,27,High School,99100,Skilled Employee/Official,Small City,0
+1729,Male,Single,27,other/unknown,64954,Unemployed/Unskilled,Small City,3
+1730,Female,Married,23,High School,103244,Skilled Employee/Official,Small City,0
+1731,Female,Married,32,High School,124975,Skilled Employee/Official,Small City,0
+1732,Male,Married,28,High School,133582,Skilled Employee/Official,Small City,0
+1733,Male,Single,22,other/unknown,103519,Skilled Employee/Official,Small City,1
+1734,Male,Single,31,other/unknown,117813,Skilled Employee/Official,Small City,1
+1735,Female,Married,22,High School,119902,Skilled Employee/Official,Small City,0
+1736,Male,Single,23,other/unknown,70783,Unemployed/Unskilled,Small City,3
+1737,Female,Married,35,High School,125470,Unemployed/Unskilled,Small City,3
+1738,Female,Married,26,High School,109782,Unemployed/Unskilled,Small City,3
+1739,Female,Married,28,High School,78322,Unemployed/Unskilled,Small City,3
+1740,Male,Single,54,High School,125517,Skilled Employee/Official,Small City,1
+1741,Female,Single,49,High School,102463,Unemployed/Unskilled,Small City,3
+1742,Female,Single,38,High School,89309,Unemployed/Unskilled,Small City,3
+1743,Female,Single,47,High School,110287,Skilled Employee/Official,Small City,3
+1744,Female,Single,49,High School,122391,Unemployed/Unskilled,Small City,3
+1745,Female,Married,30,High School,116399,Skilled Employee/Official,Small City,0
+1746,Female,Single,32,other/unknown,81907,Unemployed/Unskilled,Small City,3
+1747,Female,Married,24,High School,97909,Unemployed/Unskilled,Small City,3
+1748,Female,Single,25,other/unknown,68051,Unemployed/Unskilled,Small City,3
+1749,Male,Single,33,High School,82414,Unemployed/Unskilled,Small City,3
+1750,Female,Married,34,High School,123089,Skilled Employee/Official,Small City,0
+1751,Female,Married,24,High School,66537,Unemployed/Unskilled,Small City,3
+1752,Female,Single,36,High School,127926,Unemployed/Unskilled,Small City,3
+1753,Female,Single,41,High School,78963,Unemployed/Unskilled,Small City,3
+1754,Male,Married,33,High School,108694,Skilled Employee/Official,Small City,0
+1755,Female,Married,26,High School,100892,Skilled Employee/Official,Small City,0
+1756,Female,Single,36,High School,119560,Skilled Employee/Official,Small City,3
+1757,Female,Single,35,High School,116176,Unemployed/Unskilled,Small City,3
+1758,Male,Single,29,other/unknown,111854,Skilled Employee/Official,Small City,1
+1759,Female,Married,26,High School,69831,Unemployed/Unskilled,Small City,3
+1760,Male,Single,31,other/unknown,69375,Unemployed/Unskilled,Small City,3
+1761,Male,Married,26,High School,71310,Unemployed/Unskilled,Small City,3
+1762,Male,Single,47,High School,73913,Unemployed/Unskilled,Small City,3
+1763,Male,Married,20,High School,95492,Skilled Employee/Official,Small City,0
+1764,Male,Single,45,High School,109329,Unemployed/Unskilled,Small City,3
+1765,Male,Single,36,High School,116027,Skilled Employee/Official,Small City,1
+1766,Male,Married,31,High School,81987,Unemployed/Unskilled,Small City,3
+1767,Female,Single,41,High School,83481,Unemployed/Unskilled,Small City,3
+1768,Female,Single,31,other/unknown,72361,Unemployed/Unskilled,Small City,3
+1769,Female,Married,27,High School,106625,Unemployed/Unskilled,Small City,3
+1770,Female,Married,32,High School,123707,Skilled Employee/Official,Small City,0
+1771,Female,Single,43,High School,79353,Unemployed/Unskilled,Small City,3
+1772,Female,Single,32,other/unknown,68347,Unemployed/Unskilled,Small City,3
+1773,Female,Married,29,High School,115832,Skilled Employee/Official,Small City,0
+1774,Male,Single,37,High School,89946,Unemployed/Unskilled,Small City,3
+1775,Female,Single,35,High School,86319,Unemployed/Unskilled,Small City,3
+1776,Female,Married,23,High School,70963,Unemployed/Unskilled,Small City,3
+1777,Male,Single,40,High School,106120,Skilled Employee/Official,Small City,1
+1778,Female,Married,26,High School,97856,Skilled Employee/Official,Small City,0
+1779,Male,Single,28,other/unknown,61824,Unemployed/Unskilled,Small City,3
+1780,Female,Married,40,High School,103907,Skilled Employee/Official,Small City,0
+1781,Female,Married,26,High School,99953,Unemployed/Unskilled,Small City,3
+1782,Female,Married,23,High School,113413,Skilled Employee/Official,Small City,0
+1783,Male,Single,26,other/unknown,107091,Unemployed/Unskilled,Small City,3
+1784,Male,Single,26,other/unknown,124783,Skilled Employee/Official,Small City,1
+1785,Female,Single,49,High School,92281,Unemployed/Unskilled,Small City,3
+1786,Female,Married,26,High School,96219,Skilled Employee/Official,Small City,0
+1787,Female,Single,35,High School,86221,Unemployed/Unskilled,Small City,3
+1788,Female,Married,24,High School,80962,Unemployed/Unskilled,Small City,3
+1789,Female,Single,46,High School,78754,Unemployed/Unskilled,Small City,3
+1790,Male,Single,26,other/unknown,60026,Unemployed/Unskilled,Small City,3
+1791,Male,Single,47,High School,88157,Unemployed/Unskilled,Small City,3
+1792,Male,Single,27,other/unknown,59881,Unemployed/Unskilled,Small City,3
+1793,Male,Married,41,High School,112818,Skilled Employee/Official,Small City,0
+1794,Female,Married,29,High School,102250,Skilled Employee/Official,Small City,0
+1795,Female,Married,28,High School,38980,Unemployed/Unskilled,Small City,3
+1796,Female,Married,33,High School,81807,Unemployed/Unskilled,Small City,3
+1797,Female,Single,50,High School,93148,Unemployed/Unskilled,Small City,3
+1798,Female,Married,32,High School,108032,Skilled Employee/Official,Small City,0
+1799,Male,Married,31,High School,89335,Unemployed/Unskilled,Small City,3
+1800,Male,Single,52,High School,95639,Unemployed/Unskilled,Small City,3
+1801,Male,Single,53,High School,124902,Skilled Employee/Official,Small City,1
+1802,Female,Married,34,High School,87801,Unemployed/Unskilled,Small City,3
+1803,Female,Married,22,High School,92538,Skilled Employee/Official,Small City,0
+1804,Male,Married,33,High School,83687,Unemployed/Unskilled,Small City,3
+1805,Male,Single,32,other/unknown,128310,Skilled Employee/Official,Small City,1
+1806,Female,Single,45,High School,104754,Unemployed/Unskilled,Small City,3
+1807,Male,Married,25,High School,68222,Unemployed/Unskilled,Small City,3
+1808,Female,Married,41,High School,97006,Unemployed/Unskilled,Small City,3
+1809,Female,Single,36,High School,107372,Unemployed/Unskilled,Small City,3
+1810,Female,Married,27,High School,110511,Skilled Employee/Official,Small City,0
+1811,Male,Single,40,High School,72193,Unemployed/Unskilled,Small City,3
+1812,Female,Single,37,High School,95972,Unemployed/Unskilled,Small City,3
+1813,Male,Single,35,High School,105556,Unemployed/Unskilled,Small City,3
+1814,Male,Single,34,High School,88701,Unemployed/Unskilled,Small City,3
+1815,Female,Single,28,other/unknown,117710,Skilled Employee/Official,Small City,3
+1816,Female,Single,44,High School,76057,Unemployed/Unskilled,Small City,3
+1817,Male,Married,27,High School,100392,Skilled Employee/Official,Small City,0
+1818,Female,Single,50,High School,113308,Skilled Employee/Official,Small City,3
+1819,Female,Married,18,High School,100924,Skilled Employee/Official,Small City,0
+1820,Female,Single,25,other/unknown,72188,Unemployed/Unskilled,Small City,3
+1821,Female,Married,40,High School,70431,Unemployed/Unskilled,Small City,3
+1822,Male,Married,28,High School,110103,Skilled Employee/Official,Small City,0
+1823,Female,Married,23,High School,60825,Unemployed/Unskilled,Small City,3
+1824,Female,Married,35,High School,75100,Unemployed/Unskilled,Small City,3
+1825,Female,Married,28,High School,129327,Skilled Employee/Official,Small City,0
+1826,Female,Single,23,other/unknown,95541,Skilled Employee/Official,Small City,3
+1827,Male,Married,34,High School,112777,Skilled Employee/Official,Small City,0
+1828,Female,Married,29,High School,51496,Unemployed/Unskilled,Small City,3
+1829,Female,Single,35,High School,102781,Skilled Employee/Official,Small City,3
+1830,Female,Married,32,High School,87494,Unemployed/Unskilled,Small City,3
+1831,Female,Single,46,High School,72728,Unemployed/Unskilled,Small City,3
+1832,Female,Married,27,High School,114775,Skilled Employee/Official,Small City,0
+1833,Female,Married,25,High School,124359,Skilled Employee/Official,Small City,0
+1834,Female,Married,27,High School,101620,Unemployed/Unskilled,Small City,3
+1835,Female,Married,24,High School,87964,Unemployed/Unskilled,Small City,3
+1836,Female,Single,33,other/unknown,69523,Unemployed/Unskilled,Small City,3
+1837,Female,Married,24,High School,109486,Skilled Employee/Official,Small City,0
+1838,Female,Single,28,other/unknown,77206,Unemployed/Unskilled,Small City,3
+1839,Female,Single,35,High School,53608,Unemployed/Unskilled,Small City,3
+1840,Female,Married,30,High School,118677,Skilled Employee/Official,Small City,0
+1841,Male,Single,43,High School,116512,Skilled Employee/Official,Small City,1
+1842,Male,Married,21,High School,114756,Unemployed/Unskilled,Small City,3
+1843,Female,Married,24,High School,65852,Unemployed/Unskilled,Small City,3
+1844,Male,Single,34,High School,75626,Unemployed/Unskilled,Small City,3
+1845,Female,Married,26,High School,127455,Skilled Employee/Official,Small City,0
+1846,Male,Single,37,High School,107073,Skilled Employee/Official,Small City,1
+1847,Female,Married,32,High School,82196,Unemployed/Unskilled,Small City,3
+1848,Female,Married,33,High School,106741,Unemployed/Unskilled,Small City,3
+1849,Male,Married,28,High School,94518,Skilled Employee/Official,Small City,0
+1850,Female,Married,30,High School,114430,Skilled Employee/Official,Small City,0
+1851,Female,Married,26,High School,57165,Unemployed/Unskilled,Small City,3
+1852,Female,Single,25,other/unknown,109610,Unemployed/Unskilled,Small City,3
+1853,Male,Single,33,other/unknown,113619,Skilled Employee/Official,Small City,1
+1854,Female,Married,30,High School,93854,Skilled Employee/Official,Small City,0
+1855,Female,Married,26,High School,129022,Skilled Employee/Official,Small City,0
+1856,Male,Married,23,High School,66804,Unemployed/Unskilled,Small City,3
+1857,Male,Married,25,High School,62689,Unemployed/Unskilled,Small City,3
+1858,Female,Single,40,High School,67619,Unemployed/Unskilled,Small City,3
+1859,Male,Single,46,High School,113495,Unemployed/Unskilled,Small City,3
+1860,Female,Married,43,High School,48632,Unemployed/Unskilled,Small City,3
+1861,Female,Married,22,High School,107394,Unemployed/Unskilled,Small City,3
+1862,Male,Married,39,High School,72385,Unemployed/Unskilled,Small City,3
+1863,Female,Married,27,High School,115934,Unemployed/Unskilled,Small City,3
+1864,Male,Single,40,High School,93183,Unemployed/Unskilled,Small City,3
+1865,Male,Single,24,other/unknown,63506,Unemployed/Unskilled,Small City,3
+1866,Female,Single,52,High School,113619,Skilled Employee/Official,Small City,3
+1867,Female,Married,30,High School,121399,Unemployed/Unskilled,Small City,3
+1868,Female,Married,34,High School,78281,Unemployed/Unskilled,Small City,3
+1869,Female,Single,38,High School,103926,Skilled Employee/Official,Small City,3
+1870,Male,Married,39,High School,89097,Unemployed/Unskilled,Small City,3
+1871,Female,Single,29,other/unknown,80852,Unemployed/Unskilled,Small City,3
+1872,Male,Married,25,High School,65207,Unemployed/Unskilled,Small City,3
+1873,Female,Married,35,High School,93495,Unemployed/Unskilled,Small City,3
+1874,Male,Single,53,High School,121970,Unemployed/Unskilled,Small City,3
+1875,Male,Single,26,other/unknown,62027,Unemployed/Unskilled,Small City,3
+1876,Male,Single,33,High School,88602,Unemployed/Unskilled,Small City,3
+1877,Male,Married,29,High School,89914,Unemployed/Unskilled,Small City,3
+1878,Male,Single,39,High School,83342,Unemployed/Unskilled,Small City,3
+1879,Male,Single,29,other/unknown,103439,Skilled Employee/Official,Small City,1
+1880,Male,Single,26,other/unknown,115451,Skilled Employee/Official,Small City,1
+1881,Male,Single,24,other/unknown,68250,Unemployed/Unskilled,Small City,3
+1882,Female,Married,21,High School,113630,Unemployed/Unskilled,Small City,3
+1883,Female,Married,26,High School,125880,Skilled Employee/Official,Small City,0
+1884,Female,Married,20,High School,91177,Unemployed/Unskilled,Small City,3
+1885,Female,Single,35,High School,73266,Unemployed/Unskilled,Small City,3
+1886,Female,Married,24,High School,69021,Unemployed/Unskilled,Small City,3
+1887,Female,Single,40,High School,122593,Skilled Employee/Official,Small City,3
+1888,Female,Single,44,High School,122180,Skilled Employee/Official,Small City,3
+1889,Male,Single,29,other/unknown,75160,Unemployed/Unskilled,Small City,3
+1890,Female,Married,39,High School,81973,Unemployed/Unskilled,Small City,3
+1891,Female,Married,35,High School,92194,Unemployed/Unskilled,Small City,3
+1892,Male,Single,42,High School,107380,Unemployed/Unskilled,Small City,3
+1893,Female,Single,32,High School,98023,Skilled Employee/Official,Small City,3
+1894,Male,Single,48,High School,94868,Unemployed/Unskilled,Small City,3
+1895,Male,Single,26,other/unknown,83442,Unemployed/Unskilled,Small City,3
+1896,Female,Married,26,High School,109887,Skilled Employee/Official,Small City,0
+1897,Male,Single,42,High School,98876,Unemployed/Unskilled,Small City,3
+1898,Male,Single,48,High School,94962,Unemployed/Unskilled,Small City,3
+1899,Female,Married,42,High School,130740,Skilled Employee/Official,Small City,0
+1900,Female,Married,27,High School,94095,Unemployed/Unskilled,Small City,3
+1901,Female,Married,37,High School,95071,Unemployed/Unskilled,Small City,3
+1902,Male,Single,33,other/unknown,117308,Skilled Employee/Official,Small City,1
+1903,Male,Single,33,High School,112093,Skilled Employee/Official,Small City,1
+1904,Female,Single,37,High School,123893,Skilled Employee/Official,Small City,3
+1905,Female,Married,31,High School,80189,Unemployed/Unskilled,Small City,3
+1906,Male,Single,39,High School,124089,Skilled Employee/Official,Small City,1
+1907,Female,Single,40,High School,82673,Unemployed/Unskilled,Small City,3
+1908,Female,Married,28,High School,88858,Unemployed/Unskilled,Small City,3
+1909,Female,Married,26,High School,80540,Unemployed/Unskilled,Small City,3
+1910,Female,Married,24,High School,84228,Unemployed/Unskilled,Small City,3
+1911,Male,Single,40,High School,103963,Skilled Employee/Official,Small City,1
+1912,Female,Married,29,High School,102397,Skilled Employee/Official,Small City,0
+1913,Male,Single,43,High School,111563,Skilled Employee/Official,Small City,1
+1914,Male,Single,23,other/unknown,88260,Unemployed/Unskilled,Small City,3
+1915,Female,Single,34,High School,114767,Skilled Employee/Official,Small City,3
+1916,Female,Married,42,High School,113275,Skilled Employee/Official,Small City,0
+1917,Female,Married,33,High School,104755,Skilled Employee/Official,Small City,0
+1918,Female,Married,32,High School,120525,Skilled Employee/Official,Small City,0
+1919,Female,Married,26,High School,96082,Unemployed/Unskilled,Small City,3
+1920,Female,Married,23,High School,87227,Unemployed/Unskilled,Small City,3
+1921,Female,Married,26,High School,69333,Unemployed/Unskilled,Small City,3
+1922,Female,Married,27,High School,87777,Unemployed/Unskilled,Small City,3
+1923,Male,Single,24,other/unknown,70978,Unemployed/Unskilled,Small City,3
+1924,Male,Single,27,other/unknown,104196,Unemployed/Unskilled,Small City,3
+1925,Female,Married,26,High School,97551,Skilled Employee/Official,Small City,0
+1926,Female,Single,42,High School,78979,Unemployed/Unskilled,Small City,3
+1927,Female,Single,37,High School,82500,Unemployed/Unskilled,Small City,3
+1928,Female,Married,26,High School,86306,Unemployed/Unskilled,Small City,3
+1929,Female,Married,24,High School,78762,Unemployed/Unskilled,Small City,3
+1930,Female,Single,39,High School,125543,Skilled Employee/Official,Small City,3
+1931,Male,Single,26,other/unknown,70336,Unemployed/Unskilled,Small City,3
+1932,Male,Married,35,High School,112975,Skilled Employee/Official,Small City,0
+1933,Male,Single,38,High School,96681,Unemployed/Unskilled,Small City,3
+1934,Female,Married,24,High School,98922,Skilled Employee/Official,Small City,0
+1935,Female,Single,26,other/unknown,109250,Skilled Employee/Official,Small City,3
+1936,Male,Single,25,other/unknown,108960,Unemployed/Unskilled,Small City,3
+1937,Male,Single,40,High School,71302,Unemployed/Unskilled,Small City,3
+1938,Female,Single,48,High School,107757,Unemployed/Unskilled,Small City,3
+1939,Female,Married,22,High School,111600,Skilled Employee/Official,Small City,0
+1940,Female,Married,25,High School,102974,Skilled Employee/Official,Small City,0
+1941,Male,Married,24,High School,63442,Unemployed/Unskilled,Small City,3
+1942,Male,Single,39,High School,118913,Unemployed/Unskilled,Small City,3
+1943,Male,Single,39,High School,80987,Unemployed/Unskilled,Small City,3
+1944,Female,Married,21,High School,68790,Unemployed/Unskilled,Small City,3
+1945,Female,Single,27,other/unknown,86462,Unemployed/Unskilled,Small City,3
+1946,Male,Single,40,High School,76881,Unemployed/Unskilled,Small City,3
+1947,Female,Married,37,High School,107409,Skilled Employee/Official,Small City,0
+1948,Female,Single,42,High School,69114,Unemployed/Unskilled,Small City,3
+1949,Female,Married,31,High School,119167,Skilled Employee/Official,Small City,0
+1950,Female,Married,31,High School,102018,Skilled Employee/Official,Small City,0
+1951,Male,Single,30,other/unknown,97680,Skilled Employee/Official,Small City,1
+1952,Female,Single,23,other/unknown,65062,Unemployed/Unskilled,Small City,3
+1953,Male,Single,33,other/unknown,118144,Skilled Employee/Official,Small City,1
+1954,Female,Married,37,High School,124548,Skilled Employee/Official,Small City,0
+1955,Female,Single,29,other/unknown,85637,Unemployed/Unskilled,Small City,3
+1956,Female,Single,31,High School,113108,Skilled Employee/Official,Small City,3
+1957,Male,Single,39,High School,93554,Unemployed/Unskilled,Small City,3
+1958,Female,Married,33,High School,42516,Unemployed/Unskilled,Small City,3
+1959,Male,Married,26,High School,72429,Unemployed/Unskilled,Small City,3
+1960,Female,Married,27,High School,110154,Skilled Employee/Official,Small City,0
+1961,Female,Single,20,other/unknown,60965,Unemployed/Unskilled,Small City,3
+1962,Female,Married,27,High School,100618,Unemployed/Unskilled,Small City,3
+1963,Female,Married,26,High School,71021,Unemployed/Unskilled,Small City,3
+1964,Male,Single,40,High School,94189,Unemployed/Unskilled,Small City,3
+1965,Male,Single,24,other/unknown,44742,Unemployed/Unskilled,Small City,3
+1966,Female,Married,22,High School,103201,Skilled Employee/Official,Small City,0
+1967,Female,Married,24,High School,62335,Unemployed/Unskilled,Small City,3
+1968,Female,Single,27,other/unknown,103787,Skilled Employee/Official,Small City,3
+1969,Male,Single,35,High School,99401,Skilled Employee/Official,Small City,1
+1970,Male,Married,27,High School,105197,Skilled Employee/Official,Small City,0
+1971,Female,Married,25,High School,115566,Unemployed/Unskilled,Small City,3
+1972,Female,Married,34,High School,125843,Unemployed/Unskilled,Small City,3
+1973,Female,Single,24,other/unknown,67936,Unemployed/Unskilled,Small City,3
+1974,Female,Single,34,High School,120863,Skilled Employee/Official,Small City,3
+1975,Male,Single,42,High School,77317,Unemployed/Unskilled,Small City,3
+1976,Female,Single,38,High School,84653,Unemployed/Unskilled,Small City,3
+1977,Male,Single,42,High School,81606,Unemployed/Unskilled,Small City,3
+1978,Female,Single,35,High School,113380,Unemployed/Unskilled,Small City,3
+1979,Female,Married,27,High School,100644,Skilled Employee/Official,Small City,0
+1980,Male,Single,25,other/unknown,64037,Unemployed/Unskilled,Small City,3
+1981,Female,Married,23,High School,101350,Skilled Employee/Official,Small City,0
+1982,Female,Married,34,High School,126334,Skilled Employee/Official,Small City,0
+1983,Female,Married,28,High School,130877,Skilled Employee/Official,Small City,0
+1984,Male,Single,21,other/unknown,103470,Skilled Employee/Official,Small City,1
+1985,Female,Single,32,other/unknown,114588,Skilled Employee/Official,Small City,3
+1986,Female,Married,21,High School,120682,Skilled Employee/Official,Small City,0
+1987,Male,Single,25,other/unknown,66628,Unemployed/Unskilled,Small City,3
+1988,Female,Married,35,High School,124447,Unemployed/Unskilled,Small City,3
+1989,Female,Married,25,High School,106567,Unemployed/Unskilled,Small City,3
+1990,Female,Married,31,High School,78758,Unemployed/Unskilled,Small City,3
+1991,Male,Single,54,High School,128537,Skilled Employee/Official,Small City,1
+1992,Female,Single,51,High School,101074,Unemployed/Unskilled,Small City,3
+1993,Female,Single,38,High School,87670,Unemployed/Unskilled,Small City,3
+1994,Male,Single,45,High School,113414,Skilled Employee/Official,Small City,1
+1995,Female,Single,47,High School,123525,Unemployed/Unskilled,Small City,3
+1996,Female,Married,27,High School,117744,Skilled Employee/Official,Small City,0
+1997,Male,Single,31,other/unknown,86400,Unemployed/Unskilled,Small City,3
+1998,Female,Married,24,High School,97968,Unemployed/Unskilled,Small City,3
+1999,Male,Single,25,other/unknown,68416,Unemployed/Unskilled,Small City,3
