@@ -13,7 +13,7 @@
 
 ![screenshot](image.png)
 
-In this project, I built a python dash app for customer segmentation analysis from my previous customer segmentation project. The app uses K-Means clustering to segment customers based on their behavior and preferences. This app allows users see the interactions of various features within the customer segments available. The app also allows users to explore the customer segments based on various features.
+In this project, I built a python dash app for customer segmentation analysis from my previous customer segmentation project. The app uses K-Means clustering to segment customers based on their behavior and preferences. This app allows users see the interactions of various features within the customer segments available. The app also allows users to explore the customer segments based on various features. Feel free to check out the [live app](https://dash-app-for-customer-segmentation.onrender.com).
 
 ## Tools
 
