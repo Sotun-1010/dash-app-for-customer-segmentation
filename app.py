@@ -43,7 +43,8 @@ app.layout = html.Div([
     ], style={'width': '50%', 'display': 'inline-block'}),
 
     # 3D scatter plot graph component
-    dcc.Graph(id='3d-scatter-plot')
+    dcc.Graph(id='3d-scatter-plot'),
+    html.P("Cluster 0: The Young Professionals, Cluster 1: The Urban Achievers, Cluster 2: The Established Elite, Cluster 3: The Emerging Segment")
 ])
 
 # 4. Create a Callback to Update the Plot
